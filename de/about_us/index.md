@@ -6,7 +6,7 @@ image: /lokalgruppen/aachen.jpg
 
 # Über Uns
 
-Hallo, das ist Test-Text, den ich einfüge!
+Hallo, das ist Test-Text, den ich einfüge! Und noch ein Satz!
 
 ## Vereinsgeschichte
 
