@@ -6,6 +6,8 @@ image: /lokalgruppen/aachen.jpg
 
 # Über Uns
 
+Hallo, das ist Test-Text, den ich einfüge!
+
 ## Vereinsgeschichte
 
 <timeline timeline-config="about_us/timeline"></timeline>
