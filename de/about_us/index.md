@@ -8,7 +8,8 @@ image: /lokalgruppen/aachen.jpg
 
 Hallo, das ist Test-Text, den ich einfüge! Und noch ein Satz! Und noch ein Satz, weil es immer noch nicht funktioniert! :-(
 aaaaa
-bbbbbb
+bbbbb
+ccccccc
 
 ## Vereinsgeschichte
 
