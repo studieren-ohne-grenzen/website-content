@@ -10,6 +10,8 @@ Hallo aus dem Jitsi
 
 ## Vereinsgeschichte
 
+Hallo von Dimitri :)
+
 <timeline timeline-config="about_us/timeline"></timeline>
 
 ## Studieren Ohne Grenzen in Zahlen
