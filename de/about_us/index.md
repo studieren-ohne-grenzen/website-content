@@ -18,4 +18,6 @@ Hallo von Dimitri :)
 
 Hallo aus dem Zoo
 
+Hallo von Joni
+
 ## Vorstand und Beirat
