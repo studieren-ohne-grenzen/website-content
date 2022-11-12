@@ -16,10 +16,7 @@ Hallo aus dem Jitsi
 
 Hallo von Dimitri :)
 
-Hallo aus dem Zoo
-
 Hallo von Joni
 
-Hallo aus dem Zoom
 
 ## Vorstand und Beirat
