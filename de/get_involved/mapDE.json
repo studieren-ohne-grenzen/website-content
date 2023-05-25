@@ -21,8 +21,8 @@
     },
     {
       "name": "Berlin",
-      "picture": "",
-      "text": "",
+      "picture": "/lokalgruppen/berlin.jpg",
+      "text": "Hauptstadt",
       "social": [],
       "coordinates": { "north": 52.518611, "east": 13.408333 },
       "text_flow": "left"
