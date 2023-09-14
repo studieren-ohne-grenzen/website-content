@@ -22,3 +22,13 @@ Hallo von der MV22
 
 
 ## Vorstand und Beirat
+
+### Beirat
+Der Beirat nimmt eine beratende und moderierende Rolle ein. Seine Mitglieder tragen ihre Erfahrung in den Verein und stehen den Gruppierungen mit Rat und Tat zur Seite. Sie sind als neutrales und unabhängiges Gremium Ansprechpartner:innen für Vorstand, Lokal-, Projekt- und Arbeitsgruppen sowie jedes einzelne Mitglied, insbesondere zu:
+
+- Moderation und Mediation
+- Beratung zu konkreten Fragestellungen
+- Organisationsstruktur, Arbeitsprozessen, inhaltlichen Projekten des Vereins
+- Vereinsgeschichte und -zukunft
+
+Der Beirat besteht aus 3 bis 8 Personen und wird jährlich durch die Mitgliederversammlung gewählt. Anfragen können an beirat@studieren-ohne-grenzen.org gestellt werden.
