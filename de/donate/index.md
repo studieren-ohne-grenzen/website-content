@@ -19,11 +19,8 @@ Seit April 2017 behält Betterplace 2,5% jeder Spende ein, um anfallende Transak
 
 Spendenkonto:
 Etudes Sans Frontières – Studieren Ohne Grenzen Deutschland e.V.
-
 IBAN: DE03 5003 1000 1013 2470 01
-
 BIC: TRODDEF1XXX
-
 Triodos Bank
 
 ## Patenschaften
