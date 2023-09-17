@@ -33,8 +33,8 @@ Studieren Ohne Grenzen ist als gemeinnützig und mildtätig anerkannt. Für Spen
 <a href="betterplace.org/de/organisations/490-studieren-ohne-grenzen-deutschland-e-v">Betterplace.org</a>
 Betterplace.org sendet Ihnen Betterplace automatisch einen Spendennachweis zu Beginn des Folgejahres zu.
 - Für herkömmliche Überweisungen bis 200 Euro kann ein vereinfachter Spendennachweis genutzt werden – einfach ausdrucken und mit dem Kontoauszug archivieren, auf dem die Spende dokumentiert ist. Dies genügt nach § 50 Abs. 4 Satz 1 EStDV für die Steuererklärung.
-  - vereinfachter Spendennachweis 
-  - vereinfachter Nachweis für Mitgliedsbeiträge
+  - vereinfachter Spendennachweis (Dokument muss noch verlinkt werden)
+  - vereinfachter Nachweis für Mitgliedsbeiträge (Dokument muss noch verlinkt werden)
 - Bei der Angabe der Postadresse im Überweisungsbetreff senden wir ab 50 Euro automatisch eine Spendenbescheinigung zu. Natürlich stellen wir auf Wunsch auch bei kleineren Beträgen einen Nachweis aus (kontakt@studieren-ohne-grenzen.org).
 
 
