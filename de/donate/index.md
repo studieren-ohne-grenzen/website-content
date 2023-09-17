@@ -25,4 +25,17 @@ IBAN: DE03 5003 1000 1013 2470 01
 BIC: TRODDEF1XXX
 Triodos Bank
 
+<br>
+
+Studieren Ohne Grenzen ist als gemeinnützig und mildtätig anerkannt. Für Spenden können wir daher Zuwendungsbestätigungen ausstellen:
+
+- Für Spenden über
+<a href="betterplace.org/de/organisations/490-studieren-ohne-grenzen-deutschland-e-v">Betterplace.org</a>
+Betterplace.org sendet Ihnen Betterplace automatisch einen Spendennachweis zu Beginn des Folgejahres zu.
+- Für herkömmliche Überweisungen bis 200 Euro kann ein vereinfachter Spendennachweis genutzt werden – einfach ausdrucken und mit dem Kontoauszug archivieren, auf dem die Spende dokumentiert ist. Dies genügt nach § 50 Abs. 4 Satz 1 EStDV für die Steuererklärung.
+  - vereinfachter Spendennachweis 
+  - vereinfachter Nachweis für Mitgliedsbeiträge
+- Bei der Angabe der Postadresse im Überweisungsbetreff senden wir ab 50 Euro automatisch eine Spendenbescheinigung zu. Natürlich stellen wir auf Wunsch auch bei kleineren Beträgen einen Nachweis aus (kontakt@studieren-ohne-grenzen.org).
+
+
 ## Patenschaften
