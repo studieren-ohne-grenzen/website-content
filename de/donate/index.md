@@ -9,8 +9,7 @@ description: Dolor consequat magna culpa officia consectetur aute nostrud except
 
 ## Spenden
 Als ehrenamtliche Organisation freuen wir uns über jede Spende – auch Kleinbeträge helfen uns! Für größtmögliche Transparenz und eine einfache Abwicklung nutzen wir für Einmalspenden die Plattform 
-<a href="betterplace.org/de/organisations/490-studieren-ohne-grenzen-deutschland-e-v">Betterplace</a>
-: Über das Formular unten auf der Seite können Sie direkt per Bankeinzug, Kreditkarte oder Paypal spenden. 
+<a href="betterplace.org/de/organisations/490-studieren-ohne-grenzen-deutschland-e-v">Betterplace</a>: Über das Formular unten auf der Seite können Sie direkt per Bankeinzug, Kreditkarte oder Paypal spenden. 
 <a href="betterplace.org/de/organisations/490-studieren-ohne-grenzen-deutschland-e-v/projects">Hier</a> können Sie alternativ auch aussuchen an welches Projekt Ihre Spende gehen soll.
 
 <br>
@@ -30,8 +29,7 @@ Triodos Bank
 Studieren Ohne Grenzen ist als gemeinnützig und mildtätig anerkannt. Für Spenden können wir daher Zuwendungsbestätigungen ausstellen:
 
 - Für Spenden über
-<a href="betterplace.org/de/organisations/490-studieren-ohne-grenzen-deutschland-e-v">Betterplace.org</a>
-Betterplace.org sendet Ihnen Betterplace automatisch einen Spendennachweis zu Beginn des Folgejahres zu.
+<a href="betterplace.org/de/organisations/490-studieren-ohne-grenzen-deutschland-e-v">Betterplace.org</a> sendet Ihnen Betterplace automatisch einen Spendennachweis zu Beginn des Folgejahres zu.
 - Für herkömmliche Überweisungen bis 200 Euro kann ein vereinfachter Spendennachweis genutzt werden – einfach ausdrucken und mit dem Kontoauszug archivieren, auf dem die Spende dokumentiert ist. Dies genügt nach § 50 Abs. 4 Satz 1 EStDV für die Steuererklärung.
   - vereinfachter Spendennachweis (Dokument muss noch verlinkt werden)
   - vereinfachter Nachweis für Mitgliedsbeiträge (Dokument muss noch verlinkt werden)
