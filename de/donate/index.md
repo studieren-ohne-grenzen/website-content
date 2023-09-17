@@ -12,9 +12,13 @@ Als ehrenamtliche Organisation freuen wir uns über jede Spende – auch Kleinbe
 <a href="betterplace.org/de/organisations/490-studieren-ohne-grenzen-deutschland-e-v">Betterplace</a>
 : Über das Formular unten auf der Seite können Sie direkt per Bankeinzug, Kreditkarte oder Paypal spenden. 
 <a href="betterplace.org/de/organisations/490-studieren-ohne-grenzen-deutschland-e-v/projects">Hier</a> können Sie alternativ auch aussuchen an welches Projekt Ihre Spende gehen soll.
+
 <br>
+
 Seit April 2017 behält Betterplace 2,5% jeder Spende ein, um anfallende Transaktionsgebühren zu decken. Wenn Sie möchten, dass wirklich 100% Ihrer Spende an unsere Organisation fließen, können Sie selbstverständlich auch per Überweisung auf unser Vereinskonto spenden. 
+
 <br>
+
 Spendenkonto:
 Etudes Sans Frontières – Studieren Ohne Grenzen Deutschland e.V.
 IBAN: DE03 5003 1000 1013 2470 01
