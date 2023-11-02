@@ -12,6 +12,8 @@ title: Mitmachen
 
 ### AG Design
 
+bla bla bla
+
 ### Ressort Recht
 
 ### Ressort IT
