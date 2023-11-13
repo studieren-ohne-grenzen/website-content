@@ -9,7 +9,7 @@ title: Unsere Arbeit
 ---
 
 ## Unsere Vision 
-<b>Unsere Vision ist eine friedliche und solidarische Welt, in der alle Menschen ihr Lebensumfeld selbstbestimmt mitgestalten können.<b>
+**Unsere Vision ist eine friedliche und solidarische Welt, in der alle Menschen ihr Lebensumfeld selbstbestimmt mitgestalten können.**
 
 Eine friedliche Welt ist für uns nicht nur durch die Abwesenheit von Krieg gekennzeichnet, sondern auch durch die Anwesenheit von wechselseitigem Respekt, sozialer Gerechtigkeit und individueller Freiheit. Frieden bedeutet für uns auch ein Leben ohne Angst und Diskriminierung. Eine nachhaltig friedliche Gesellschaft wird durch kontinuierliches Engagement ihrer Angehörigen verwirklicht.
 
