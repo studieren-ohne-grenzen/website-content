@@ -24,7 +24,7 @@ Hallo von der MV22
 ## Vorstand und Beirat
 
 ### Vorstand
-Der Vorstand wird von der jährlichen Mitgliederversammlung für ein Jahr gewählt und leitet die laufenden Geschäfte des Vereins. Er besteht aus dem 1. und 2. Vorsitz, dem*der Kassenwart*in, sowie sechs Beisitzen.
+Der Vorstand wird von der jährlichen Mitgliederversammlung für ein Jahr gewählt und leitet die laufenden Geschäfte des Vereins. Er besteht aus dem 1. und 2. Vorsitz, dem*der Kassenwart*in, sowie zwei bis sechs Beisitzen.
 Kontaktiert werden kann der Vorstand über vorstand@studieren-ohne-grenzen.org
 
 ### Beirat
