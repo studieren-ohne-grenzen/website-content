@@ -21,7 +21,7 @@ Hallo von Joni
 Hallo von der MV22
 
 
-## Vorstand und Beirat
+## Vorstand, Beirat und Revision
 
 ### Vorstand
 Der Vorstand wird von der jährlichen Mitgliederversammlung für ein Jahr gewählt und leitet die laufenden Geschäfte des Vereins. Er besteht aus dem 1. und 2. Vorsitz, dem*der Kassenwart*in, sowie zwei bis sechs Beisitzen.
@@ -36,3 +36,6 @@ Der Beirat nimmt eine beratende und moderierende Rolle ein. Seine Mitglieder tra
 - Vereinsgeschichte und -zukunft
 
 Der Beirat besteht aus 3 bis 8 Personen und wird jährlich durch die Mitgliederversammlung gewählt. Anfragen können an beirat@studieren-ohne-grenzen.org gestellt werden.
+
+### Revision
+Die Revision überwacht, ob die Vereinsarbeit gemäß der Satzung und den erlassenen Richtlinien stattfindet und prüft den Jahresabschluss, den Geschäftsbericht und die Kontenblätter. Sie besteht aus mindestens zwei Personen und wird auf der Mitgliederversammlung gewählt.
