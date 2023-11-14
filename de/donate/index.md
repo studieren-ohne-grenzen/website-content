@@ -7,6 +7,10 @@ description: Dolor consequat magna culpa officia consectetur aute nostrud except
 
 ## Förder-Mitgliedschaft
 
+Als Fördermitglied unterstützen Sie unsere Organisation kontinuierlich durch einen frei wählbaren monatlichen Beitrag. Dieses langfristige Vertrauen hilft uns insbesondere dabei, einen nachhaltigen Finanzierungsansatz für neue Projekte zu entwickeln.
+
+Um Fördermitglied zu werden, müssen Sie lediglich den Online-Fördermitgliedsantrag ausfüllen. Alternativ können Sie den Antrag herunterladen, am Computer ausfüllen und per E-Mail oder Post an uns schicken. Die Mitgliedschaft ist jederzeit zum Jahresende kündbar. Details finden Sie in unserer Satzung und unserer Beitragsordnung.
+
 ## Spenden
 Als ehrenamtliche Organisation freuen wir uns über jede Spende – auch Kleinbeträge helfen uns! Für größtmögliche Transparenz und eine einfache Abwicklung nutzen wir für Einmalspenden die Plattform 
 <a href="betterplace.org/de/organisations/490-studieren-ohne-grenzen-deutschland-e-v">Betterplace</a>: Über das Formular unten auf der Seite können Sie direkt per Bankeinzug, Kreditkarte oder Paypal spenden. 
@@ -40,3 +44,5 @@ Studieren Ohne Grenzen ist als gemeinnützig und mildtätig anerkannt. Für Spen
 
 
 ## Patenschaften
+
+Mit einer Projektpatenschaft können Sie gezielt ein spezifisches Projekt unterstützen. Sie können die Patenschaft ganz einfach online abschliepen. Alternativ können Sie das Patenschaftsformular herunterladen, ausfüllen und per Post oder Email an uns schicken. Sollten Sie Fragen zu Patenschaften haben, wenden Sie sich einfach an patenschaft@studieren-ohne-grenzen.org
