@@ -14,7 +14,7 @@ Hallo aus dem Jitsi!
 
 ## Studieren Ohne Grenzen in Zahlen
 
-Hallo von Dimitri :)
+Hallo von Dimitri :))
 
 Hallo von Joni
 
