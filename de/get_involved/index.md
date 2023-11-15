@@ -8,10 +8,6 @@ title: Mitmachen
 
 
 ---
-
-
----
-## Bundesweit
 Du möchtest mitmachen und fragst dich, wie wir arbeiten? Welche Gruppe arbeitet an welchen Projekten und wie kann ich mich einbringen? Im Mitgliederhandout für Interessierte findest du kurz zusammengefasst, wie die Arbeit bei Studieren ohne Grenzen organisiert ist. Das Handout soll dir einen kurzen Überblick geben und dir den Einstieg erleichtern. 
 
 Du hättest Lust, bei Studieren Ohne Grenzen einzusteigen, es gibt aber noch keine Gruppe in Deiner Stadt? – Gründe doch einfach selbst eine Lokalgruppe oder werde Teil einer unserer Bundesweiten Gruppen bzw. Projektgruppen!
@@ -24,6 +20,10 @@ Wir freuen uns auf deine Fragen und Anregungen unter: kontakt@studieren-ohne-gre
 
 Mitglied werden ist ganz leicht – fülle einfach unseren Online-Mitgliedsantrag aus. Alternativ kannst Du den Mitgliedsantrag herunterladen, am Computer ausfüllen und per E-Mail oder Post an uns schicken.
 Die Mitgliedschaft kann jederzeit zum Jahresende gekündigt werden. Mitglieder zahlen zur Deckung der Verwaltungskosten einen Beitrag von mindestens 18 Euro pro Jahr. Details findest Du in unserer Satzung und unserer Beitragsordnung.
+
+---
+## Bundesweit
+
 ### Projektgruppen
 
 ### Rechts Ressort
