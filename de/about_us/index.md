@@ -6,7 +6,7 @@ image: /lokalgruppen/aachen.jpg
 
 # Über Uns
 
-Hallo aus dem Jitsi!!
+Hallo aus dem Jitsi!!!
 
 ## Vereinsgeschichte
 
