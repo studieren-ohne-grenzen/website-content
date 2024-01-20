@@ -1,19 +1,14 @@
 ---
-title: Spenden
+title: Ünterstützen
 description: Dolor consequat magna culpa officia consectetur aute nostrud excepteur in sunt sint aliqua pariatur. Irure voluptate veniam sit aliquip dolor incididunt aute Lorem quis ullamco occaecat nulla laborum id. Culpa elit Lorem cillum occaecat exercitation aliqua aliqua enim commodo velit mollit quis velit irure. Dolor Lorem exercitation nisi nisi nisi dolore esse ut aliquip duis.
 ---
 
-# Spenden
-
-## Förder-Mitgliedschaft
-
-Als Fördermitglied unterstützen Sie unsere Organisation kontinuierlich durch einen frei wählbaren monatlichen Beitrag. Dieses langfristige Vertrauen hilft uns insbesondere dabei, einen nachhaltigen Finanzierungsansatz für neue Projekte zu entwickeln.
-
-Um Fördermitglied zu werden, müssen Sie lediglich den Online-Fördermitgliedsantrag ausfüllen. Alternativ können Sie den Antrag herunterladen, am Computer ausfüllen und per E-Mail oder Post an uns schicken. Die Mitgliedschaft ist jederzeit zum Jahresende kündbar. Details finden Sie in unserer Satzung und unserer Beitragsordnung.
+# Unterstützen
 
 ## Spenden
 Als ehrenamtliche Organisation freuen wir uns über jede Spende – auch Kleinbeträge helfen uns! Für größtmögliche Transparenz und eine einfache Abwicklung nutzen wir für Einmalspenden die Plattform 
-<a href="betterplace.org/de/organisations/490-studieren-ohne-grenzen-deutschland-e-v">Betterplace</a>: Über das Formular unten auf der Seite können Sie direkt per Bankeinzug, Kreditkarte oder Paypal spenden. 
+<a href="betterplace.org/de/organisations/490-studieren-ohne-grenzen-deutschland-e-v">Betterplace</a>: Über das Betterplace-Formular <a href="
+können Sie zudem direkt per Bankeinzug, Kreditkarte oder Paypal spenden. 
 <a href="betterplace.org/de/organisations/490-studieren-ohne-grenzen-deutschland-e-v/projects">Hier</a> können Sie alternativ auch aussuchen an welches Projekt Ihre Spende gehen soll.
 
 <br>
@@ -41,6 +36,15 @@ Studieren Ohne Grenzen ist als gemeinnützig und mildtätig anerkannt. Für Spen
   - vereinfachter Spendennachweis (Dokument muss noch verlinkt werden)
   - vereinfachter Nachweis für Mitgliedsbeiträge (Dokument muss noch verlinkt werden)
 - Bei der Angabe der Postadresse im Überweisungsbetreff senden wir ab 50 Euro automatisch eine Spendenbescheinigung zu. Natürlich stellen wir auf Wunsch auch bei kleineren Beträgen einen Nachweis aus (kontakt@studieren-ohne-grenzen.org).
+
+
+
+## Förder-Mitgliedschaft
+
+Als Fördermitglied unterstützen Sie unsere Organisation kontinuierlich durch einen frei wählbaren monatlichen Beitrag. Dieses langfristige Vertrauen hilft uns insbesondere dabei, einen nachhaltigen Finanzierungsansatz für neue Projekte zu entwickeln.
+
+Um Fördermitglied zu werden, müssen Sie lediglich den Online-Fördermitgliedsantrag ausfüllen. Alternativ können Sie den Antrag herunterladen, am Computer ausfüllen und per E-Mail oder Post an uns schicken. Die Mitgliedschaft ist jederzeit zum Jahresende kündbar. Details finden Sie in unserer Satzung und unserer Beitragsordnung.
+
 
 
 ## Patenschaften
