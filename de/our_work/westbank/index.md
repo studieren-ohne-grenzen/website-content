@@ -13,7 +13,7 @@ title: Westbank
 ## Die Projektregion:
 Die Westbank ist ein Gebiet das im Westen an Israel und im Osten an Jordanien grenzt. In seinen 5800 Quadratkilometer Fläche leben rund 85 Prozent Palästinener:innen und 15 Prozent Juden und Jüdinnen. Seit 1967 wird das Gebiet völkerrechtswidrig (Resolution 478 (1980) of 20 August 1980 ) von Israel besetzt. Aufgrund der territorialen Ansprüche von sowohl palästinensischer als auch israelischer Seite kommt es in dem Gebiet regelmäßig zu Spannungen. Aufgrund der wirtschaftlichen Lage in der Westbank fehlt vielen jungen Menschen das Geld um dort zu studieren.
 
-## Stipendienprogramm
+## Das Stipendienprogramm
 
 **Programmstart:** 2020
 
