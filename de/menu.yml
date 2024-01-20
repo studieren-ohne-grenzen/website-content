@@ -6,15 +6,15 @@ items:
         hash: programme
         children:
           - name: Burundi
-            hash: burundi
+            url: our_work/burundi
           - name: DR Kongo - Mweso
-            hash: dr kongo - mweso
+            url: our_work/dr_congo_mweso
           - name: Guatemala
-            hash: guatemala
+            url: our_work/guatemala
           - name: Sri Lanka
-            hash: sri lanka
+            url: our_work/sri_lanka
           - name: Westbank
-            hash: westbank
+            url: our_work/westbank
       - name: Vision und Ansatz
         hash: vision-und-ansatz
         children:
