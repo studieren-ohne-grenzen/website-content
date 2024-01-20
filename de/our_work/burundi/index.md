@@ -4,17 +4,20 @@ title: Burundi
 
 # Burundi
 
-**Stipendienstart:** 2018
-
-**Insgesamt gefördert:** 4 ??? Stipendiat:innen
-
-**Aktuell gefördert:** 3 Stipendiat ??? (Stand 2024)
+## Programmgruppe
 
 **Programmgruppentreffen:** Jeden Dienstag um 19 Uhr
 
 **Erreichbarkeit:** burundi@studieren-ohne-grenzen.org
 
 ## Das Stipendienprogramm
+
+**Programmstart:** 2018
+
+**Aktuell gefördert:** 3 Stipendiat ??? (Stand 2024)
+
+**Insgesamt gefördert:** 4 ??? Stipendiat:innen
+
 In Burundi werden Studierende für die Dauer eines Hochschulstudiums an einer der vier öffentlichen und acht privaten Hochschulen des Landes gefördert. Das Stipendium richtet sich an Studierende aller Studiengänge und umfasst neben studienbezogenen Kosten auch Lebenshaltungs- und Wohnungskosten. Außerdem können im Rahmen des Studiums anfallende Kosten, zum Beispiel für Praktika oder Prüfungsgebühren, übernommen werden. Zudem werden sie ideell unterstützt z.B. bei der Teilnahme an Workshops, durch die Projektgruppe sowie durch eine Mitarbeiterin in Bujumbura.
 
 ## Projekte der Stipendiat:innen:
