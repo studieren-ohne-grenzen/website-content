@@ -5,8 +5,6 @@ items:
       - name: Programme
         hash: programme
         children:
-          - name: Afghanistan
-            hash: afghanistan
           - name: Burundi
             hash: burundi
           - name: DR Kongo - Mweso
@@ -15,8 +13,6 @@ items:
             hash: guatemala
           - name: Sri Lanka
             hash: sri lanka
-          - name: Tschetschenien
-            hash: tschetschenien
           - name: Westbank
             hash: westbank
       - name: Vision und Ansatz
@@ -48,38 +44,16 @@ items:
         children:
           - name: Aachen (Zweigverein)
             hash: aachen
-          - name: Bayreuth
-            hash: bayreuth
           - name: Berlin
             hash: berlin
-          - name: Bonn
-            hash: bonn
           - name: Dresden
             hash: dresden
           - name: Frankfurt a.M.
             hash: frankfurt
           - name: Göttingen
             hash: göttingen
-          - name: Heidelberg (Zweigverein)
-            hash: heidelberg
-          - name: Jena
-            hash: jena
-          - name: Karlsruhe
-            hash: karlsruhe
-          - name: Konstanz
-            hash: konstanz
-          - name: Köln
-            hash: köln
-          - name: Leipzig
-            hash: leipzig
-          - name: Marburg
-            hash: marburg
-          - name: München
-            hash: münchen
-          - name: Stuttgart
-            hash: stuttgart
-          - name: Tübingen
-            hash: tübingen
+          - name: Rostock
+            hash: rostock
       - name: Bundesweit
         hash: bundesweit
         children: []
