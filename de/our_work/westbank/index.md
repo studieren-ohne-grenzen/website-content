@@ -4,11 +4,7 @@ title: Westbank
 
 # Westbank
 
-**Stipendienstart:** 2020
-
-**Insgesamt gefördert:** 5 Stipendiat:innen 
-
-**Aktuell gefördert:** 4 Stipendiat aktuell gefördert (Stand 2024)
+## Programmgruppe
 
 **Programmgruppentreffen:** Online jeden zweiten Sonntag um 19 Uhr (Stand Januar 2024)
 
@@ -17,7 +13,13 @@ title: Westbank
 ## Die Projektregion:
 Die Westbank ist ein Gebiet das im Westen an Israel und im Osten an Jordanien grenzt. In seinen 5800 Quadratkilometer Fläche leben rund 85 Prozent Palästinener:innen und 15 Prozent Juden und Jüdinnen. Seit 1967 wird das Gebiet völkerrechtswidrig (Resolution 478 (1980) of 20 August 1980 ) von Israel besetzt. Aufgrund der territorialen Ansprüche von sowohl palästinensischer als auch israelischer Seite kommt es in dem Gebiet regelmäßig zu Spannungen. Aufgrund der wirtschaftlichen Lage in der Westbank fehlt vielen jungen Menschen das Geld um dort zu studieren.
 
-## Das Stipendienprogramm
+## Stipendienprogramm
+
+**Programmstart:** 2020
+
+**Aktuell gefördert:** 4 Stipendiat aktuell gefördert (Stand 2024)
+
+**Insgesamt gefördert:** 5 Stipendiat:innen 
 
 Die Stipendiat:innen studieren an unterschiedlichen Hochschulen der Westbank. Das Stipendium umfasst dabei die (anteilige) Übernahme von Studiengebühren sowie einen monatlichen Zuschuss zu den Lebenshaltungs- und Ausbildungskosten. 
 
