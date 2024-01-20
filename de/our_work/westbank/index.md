@@ -23,13 +23,13 @@ Die Westbank ist ein Gebiet das im Westen an Israel und im Osten an Jordanien gr
 
 Die Stipendiat:innen studieren an unterschiedlichen Hochschulen der Westbank. Das Stipendium umfasst dabei die (anteilige) Übernahme von Studiengebühren sowie einen monatlichen Zuschuss zu den Lebenshaltungs- und Ausbildungskosten. 
 
-## Projekte der Sitpendiat:innen: 
+### Projekte der Sitpendiat:innen: 
 
 Die Stipendiat:innen engagieren sich während ihres Stuidums entweder in eigenen Projekten oder im Rahmen bereits bestehender Organisationen und Projekte. Dabei steht ihnen der Fokus ihres Projektes frei. In den Projekten können sie ihre Fähigkeiten und im Studium erlerntes Wissen praktisch anwenden und weiterentwickeln. Beispielsweise bieten sie Bildungs- und Betreuungsangebote für Kinder mit Behinderung an oder unterstützen die Öffentlichkeitsarbeit von NGOs.
 
 Für im Projekt entstandene Kosten erhalten die Stipendiat:innen jährlich bis zu 100$.
 
-## Kooperationspartnerin vor Ort: The Community Development & Continuing Education Institute (CDCE-I)
+### Kooperationspartnerin vor Ort: The Community Development & Continuing Education Institute (CDCE-I)
 
 Vor Ort wird das Programm durch CDCE-I unterstützt, z.B. in der Ausschreibung des Stipendiums sowie der ideellen Förderung der Stipendiat:innen, als Ansprechpartner:innen und durch Durchführung von Workshops. 
 
