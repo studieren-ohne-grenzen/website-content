@@ -24,7 +24,7 @@ Das Stipendium umfasst neben der Finanzierung des Studiums am ISEA auch eine ide
 ### Projekte der Stipendiat:innen:
 Die Stipendiat:innen führen ihre Projekte im Anschluss an ihr Studium aus. Einige dieser Projekte – insbesondere jene, die zur Nahrungsmittelsicherheit beitragen – werden durch die Deutsche Welthungerhilfe finanziell gefördert. 
 
-### Kooperatiospartnerin vor Ort: Comité des Agriculteurs pour le Dévelopement Participatif (CADEP)
+### Kooperationspartnerin vor Ort: Comité des Agriculteurs pour le Dévelopement Participatif (CADEP)
 Als Kooperationspartnerin begleitet CADEP die Stipendiat:innen ideell bei der Konzeption ihrer eigenen Projekte und organisiert darüber hinaus regelmäßig Workshops zur außeruniversitären Weiterbildung. Ferner gibt CADEP immer wieder Impulse, wie gemeinsam zur Verbesserung der Qualität des Studiums beigetragen werden kann.
 
 ## Aktuelle Infrastrukturprojekte
