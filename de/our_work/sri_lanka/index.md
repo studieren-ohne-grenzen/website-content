@@ -6,7 +6,7 @@ title: Sri Lanka
 
 ## Die Projektregion
 
-Der von 1983 bis 2009 wüntende Bürgerkrieg in Sri Lanka zwischen Regierungstruppen und der tamilischen Bewegung Liberation Tigers of Tamil Eelam (LTTE), forderte zahllose zivile Opfer. Besonders im Nordosten des Landes war das Leben der Bevölkerung von Gewalt und Vertreibung geprägt. 
+Der von 1983 bis 2009 wütende Bürgerkrieg in Sri Lanka zwischen Regierungstruppen und der tamilischen Bewegung Liberation Tigers of Tamil Eelam (LTTE), forderte zahllose zivile Opfer. Besonders im Nordosten des Landes war das Leben der Bevölkerung von Gewalt und Vertreibung geprägt. 
 
 ## Programmgruppe
 
@@ -43,7 +43,7 @@ Die Stipendiat:innen unterstützen entweder lokale NGOs oder organisieren eigene
 
 Im stark ländlich geprägten Osten des Landes fördert Studieren Ohne Grenzen in Zusammenarbeit mit der Organisation Action Forum for Social Development engagierte Studierende in ihrem Studium. Das Studium ist an keine bestimmte Hochschule geknüpft, sodass verschiedenste Fachbereiche gefördert werden können. Seit 2020 konnte nach Abschluss eines Bachelorstudiums auch die Förderung eines Masterstudiengangs ermöglicht werden.
 
-Das Stipendium umfasste vorallem finanzielle Zuwendungen, welche die
+Das Stipendium umfasste vor allem finanzielle Zuwendungen, welche die
 Lebenshaltungskosten, Fahrtkosten zur Hochschule, sowie Lernmaterialien abdecken. Die Stipendienhöhe ist an das regionale Kostenniveau geknüpft. Zudem standen die Stipendiat:innen in direktem Kontakt mit jeweils einem Mitglied von Studieren Ohne Grenzen in Deutschland.
 
 ### Projekte der Stipendiat:innen:
