@@ -1,14 +1,12 @@
 ---
-title: Ünterstützen
+title: Unterstützen
 description: Dolor consequat magna culpa officia consectetur aute nostrud excepteur in sunt sint aliqua pariatur. Irure voluptate veniam sit aliquip dolor incididunt aute Lorem quis ullamco occaecat nulla laborum id. Culpa elit Lorem cillum occaecat exercitation aliqua aliqua enim commodo velit mollit quis velit irure. Dolor Lorem exercitation nisi nisi nisi dolore esse ut aliquip duis.
 ---
 
 # Unterstützen
 
 ## Spenden
-Als ehrenamtliche Organisation freuen wir uns über jede Spende – auch Kleinbeträge helfen uns! Für größtmögliche Transparenz und eine einfache Abwicklung nutzen wir für Einmalspenden die Plattform 
-<a href="betterplace.org/de/organisations/490-studieren-ohne-grenzen-deutschland-e-v">Betterplace</a>: Über das Betterplace-Formular können Sie zudem direkt per Bankeinzug, Kreditkarte oder Paypal spenden. 
-<a href="betterplace.org/de/organisations/490-studieren-ohne-grenzen-deutschland-e-v/projects">Hier</a> können Sie alternativ auch aussuchen an welches Projekt Ihre Spende gehen soll.
+Als ehrenamtliche Organisation freuen wir uns über jede Spende – auch Kleinbeträge helfen uns! Für größtmögliche Transparenz und eine einfache Abwicklung nutzen wir für Einmalspenden die Plattform [Betterplace](https://betterplace.org/de/organisations/490-studieren-ohne-grenzen-deutschland-e-v): Über das Betterplace-Formular können Sie zudem direkt per Bankeinzug, Kreditkarte oder Paypal spenden. [Hier](https://betterplace.org/de/organisations/490-studieren-ohne-grenzen-deutschland-e-v/projects) können Sie alternativ auch aussuchen an welches Projekt Ihre Spende gehen soll.
 
 Seit April 2017 behält Betterplace 2,5% jeder Spende ein, um anfallende Transaktionsgebühren zu decken. Wenn Sie möchten, dass wirklich 100% Ihrer Spende an unsere Organisation fließen, können Sie selbstverständlich auch per Überweisung auf unser Vereinskonto spenden. 
 
@@ -27,14 +25,13 @@ Triodos Bank
 
 Studieren Ohne Grenzen ist als gemeinnützig und mildtätig anerkannt. Für Spenden können wir daher Zuwendungsbestätigungen ausstellen:
 
-- Für Spenden über
-<a href="betterplace.org/de/organisations/490-studieren-ohne-grenzen-deutschland-e-v">Betterplace.org</a> sendet Ihnen Betterplace automatisch einen Spendennachweis zu Beginn des Folgejahres zu.
+- Für Spenden über [Betterplace.org](https://betterplace.org/de/organisations/490-studieren-ohne-grenzen-deutschland-e-v) sendet Ihnen Betterplace automatisch einen Spendennachweis zu Beginn des Folgejahres zu.
 - Für herkömmliche Überweisungen bis 200 Euro kann ein vereinfachter Spendennachweis genutzt werden – einfach ausdrucken und mit dem Kontoauszug archivieren, auf dem die Spende dokumentiert ist. Dies genügt nach § 50 Abs. 4 Satz 1 EStDV für die Steuererklärung.
   - vereinfachter Spendennachweis (Dokument muss noch verlinkt werden)
   - vereinfachter Nachweis für Mitgliedsbeiträge (Dokument muss noch verlinkt werden)
 - Bei der Angabe der Postadresse im Überweisungsbetreff senden wir ab 300 Euro automatisch eine Spendenbescheinigung zu. Natürlich stellen wir auf Wunsch auch bei kleineren Beträgen einen Nachweis aus (kontakt@studieren-ohne-grenzen.org).
 
-## Förder-Mitgliedschaft
+## Fördermitgliedschaft
 Als Fördermitglied unterstützen Sie unsere Organisation kontinuierlich durch einen frei wählbaren monatlichen oder jährlichen Beitrag. Dieses langfristige Vertrauen hilft uns insbesondere dabei, einen nachhaltigen Finanzierungsansatz für neue Projekte zu entwickeln. Als Fördermitglied haben Sie volles Stimmrecht im Verein, z.B. auf der Mitgliederversammlung.
 
 Um Fördermitglied zu werden, müssen Sie lediglich den Online-Fördermitgliedsantrag ausfüllen. Alternativ können Sie den Antrag herunterladen, am Computer ausfüllen und per E-Mail oder Post an uns schicken. Die Mitgliedschaft ist jederzeit zum Jahresende kündbar. Details finden Sie in unserer Satzung und unserer Beitragsordnung.
@@ -50,4 +47,3 @@ Der Verein richtet sich einerseits insbesondere an ehemalige Mitglieder, die aus
 Der Förderverein unterstützt Studieren Ohne Grenzen sowohl finanziell als auch ideell, z.B. in beratender Funktion und durch das Anbieten von Infoabenden oder Workshops. Alle Spenden und Fördermittel des Fördervereins werden an Studieren Ohne Grenzen weitergeleitet. 
 
 Mehr Informationen findest du hier oder schreib ihnen einfach unter info@fv.studieren-ohne-grenzen.org.
-

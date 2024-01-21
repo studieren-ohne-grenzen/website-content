@@ -5,6 +5,7 @@ title: Mitmachen
 # Mitmachen
 Studieren Ohne Grenzen hat Lokalgruppen in verschiedenen Städten. 
 Wenn du mehr über die einzelnen Lokalgruppen erfahren willst, klicke einfach darauf.
+
 <sog-map map-type="germany" places-config="get_involved/mapDE"></sog-map>
 
 Es gibt noch keine Gruppe in deiner Stadt? – Gründe gerne selbst eine Lokalgruppe. Wir helfen dir gerne dabei. Kontaktiere uns einfach unter kontakt@studieren-ohne-grenzen.org

@@ -29,13 +29,12 @@ items:
     children:
       - name: Vereinsgeschichte
         hash: vereinsgeschichte
-        children: []
+      - name: Vision und Ansatz
+        hash: vision-und-ansatz
       - name: Studieren Ohne Grenzen in Zahlen
         hash: studieren-ohne-grenzen-in-zahlen
-        children: []
-      - name: Vorstand und Beirat
-        hash: vorstand-und-beirat
-        children: []
+      - name: Vorstand, Beirat und Revision
+        hash: vorstand-beirat-und-revision
   - name: Mitmachen
     url: get_involved
     children:
@@ -56,22 +55,16 @@ items:
             hash: rostock
       - name: Bundesweit
         hash: bundesweit
-        children: []
-  - name: Spenden
-    url: donate
+  - name: Unterstützen
+    url: support_us
     children:
-      - name: Fördermitgliedschaft
-        hash: fördermitgliedschaft
-        children: []
       - name: Spenden
         hash: spenden
-        children: []
+      - name: Fördermitgliedschaft
+        hash: fördermitgliedschaft
       - name: Patenschaften
         hash: patenschaften
-        children: []
-  - name: Gefördert werden
-    url: scholarships
-    children: []
+      - name: Förderverein
+        hash: förderverein
   - name: Shop
     url: shop
-    children: []
