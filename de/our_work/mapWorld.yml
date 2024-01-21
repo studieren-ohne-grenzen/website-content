@@ -2,21 +2,21 @@ places:
   - name: Afghanistan
     picture: ""
     text: In Herat, im Nordwesten Afghanistans, ermöglichte Studieren Ohne Grenzen engagierten Afghaninnen und Afghanen ein Studium. Aufgrund der Machtübernahme durch die Taliban ist es nicht mehr möglich das Programm im Sinne von Studieren Ohne Grenzen fortzuführen. Daher lief das Programm mit dem Ende des Studiums der letzten Stipendiat:innen 2023 aus. 
-      north: 33.933333
-      east: 66.183333
+      north: 34.35
+      east: 62.183333
     active: false
   - name: Burundi
     picture: ""
     text: In Burundi werden Studierende für die Dauer eines Hochschulstudiums an einer der vier öffentlichen und acht privaten Hochschulen des Landes gefördert. Das Stipendium richtet sich an Studierende aller Studiengänge und umfasst neben studienbezogenen Kosten auch Lebenshaltungs- und Wohnungskosten sowie weitere im Rahmen des Studiums anfallende Kosten. 
     coordinates:
-      north: -3.666667
-      east: 29.816667
+      north: -3.427062
+      east: 29.930878
     active: true
   - name: DR Kongo - Mweso
     picture: ""
     text: In Mweso im Osten der Demokratischen Republik Kongo vergibt Studieren Ohne Grenzen Stipendien an engagierte Studierende der landwirtschaftlichen Hochschule Institut Supérieur d’Études Agronomiques (ISEA), die durch ihre Projekte ihr Wissen an die Bevölkerung weitergeben. Zudem werden dort unterschiedliche Infrastrukturprojekte gefördert. 
-      north: -1.12743
-      east: 29.04259
+      north: -1.116522
+      east: 29.038608
     text_flow: left
     active: true
   - name: DR Kongo - Kindu
@@ -30,22 +30,22 @@ places:
     picture: ""
     text: 
     coordinates:
-      north: 15.5
-      east: -90.25
+      north: 14.631667
+      east: -90.523611
     text_flow: left
     active: true
   - name: Sri Lanka - Infinity Center (Koordinaten prüfen)
     picture: "Im Norden Sri Lankas fördert Studieren Ohne Grenzen finanziell bedürftigen jungen Erwachsenen die Teilhabe an Computerkursen und Accounting Kursen."
     text: 
     coordinates:
-      north: 6.916667
-      east: 80
+      north: 6.857177
+      east: 79.89
     active: true
   - name: Sri Lanka - Action Forum (Koordinaten prüfen)
     picture: "Im Osten des Landes förderte Studieren Ohne Grenzen Studierende verschiedenster Fachbereiche. Das Programm lief aufgrund fehlender Projektpartnerschaft vor Ort 2023 aus."
     text: 
     coordinates:
-      north: 6.916667
+      north: 6.8560
       east: 80
     active: false    
   - name: Tschetschenien
@@ -60,7 +60,7 @@ places:
     picture: "In der Westbank werden Studierende verschiedener Studiengänge gefördert und bekommen dabei einen Zuschuss zu Studienkosten sowie Lebenshaltungskosten."
     text: 
     coordinates:
-      north: 31.966667
-      east: 35.3
+      north: 31.90
+      east: 35.19
     text_flow: left
     active: true
