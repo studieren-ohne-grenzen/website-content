@@ -1,7 +1,7 @@
 places:
   - name: Afghanistan
     picture: ""
-    text: In Herat, im Nordwesten Afghanistans, ermöglichte Studieren Ohne Grenzen engagierten Afghaninnen und Afghanen ein Studium. Aufgrund der Machtübernahme durch die Taliban ist es nicht mehr möglich das Programm im Sinne von Studieren Ohne Grenzen fortzuführen. Daher lief das Programm mit dem Ende des Studiums der letzten Stipendiat:innen aus. 
+    text: In Herat, im Nordwesten Afghanistans, ermöglichte Studieren Ohne Grenzen engagierten Afghaninnen und Afghanen ein Studium. Aufgrund der Machtübernahme durch die Taliban ist es nicht mehr möglich das Programm im Sinne von Studieren Ohne Grenzen fortzuführen. Daher lief das Programm mit dem Ende des Studiums der letzten Stipendiat:innen 2023 aus. 
       north: 33.933333
       east: 66.183333
     active: false
@@ -20,7 +20,7 @@ places:
     text_flow: left
     active: true
   - name: DR Kongo - Kindu
-      picture: ""
+      picture: "Im Osten der DRK vergibt Studieren Ohne Grenzen ein Vollstipendium an Studierende unterschiedlicher Studiengänge. Das Projekt wird voraussichtlich Ende 2024 auslaufen."
       text: 
         north: -2.95
         east: 25.916667
@@ -35,21 +35,21 @@ places:
     text_flow: left
     active: true
   - name: Sri Lanka - Infinity Center (Koordinaten prüfen)
-    picture: ""
+    picture: "Im Norden Sri Lankas fördert Studieren Ohne Grenzen finanziell bedürftigen jungen Erwachsenen die Teilhabe an Computerkursen und Accounting Kursen."
     text: 
     coordinates:
       north: 6.916667
       east: 80
     active: true
   - name: Sri Lanka - Action Forum (Koordinaten prüfen)
-    picture: ""
+    picture: "Im Osten des Landes förderte Studieren Ohne Grenzen Studierende verschiedenster Fachbereiche. Das Programm lief aufgrund fehlender Projektpartnerschaft vor Ort 2023 aus."
     text: 
     coordinates:
       north: 6.916667
       east: 80
     active: false    
   - name: Tschetschenien
-    picture: ""
+    picture: "Tschetschenische Studierende wurden 2008 bis 2023 bei einem Studienaufenthalt in Deutschland gefördert. Zudem wurde die Ausstattung der Bibliothek in Grozny gefördert. Da keine Hochschule bzw. Universität gefunden werden konnte, die bereit war mit dem Programm zu kooperieren, lief das Programm 2023 aus."
     text: 
     coordinates:
       north: 43.272356
@@ -57,7 +57,7 @@ places:
     text_flow: left
     active: false
   - name: Westbank
-    picture: ""
+    picture: "In der Westbank werden Studierende verschiedener Studiengänge gefördert und bekommen dabei einen Zuschuss zu Studienkosten sowie Lebenshaltungskosten."
     text: 
     coordinates:
       north: 31.966667
