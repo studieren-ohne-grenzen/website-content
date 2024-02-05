@@ -37,20 +37,13 @@ places:
       east: -90.523611
     text_flow: left
     active: true
-  - name: Sri Lanka - Infinity Center (Koordinaten prüfen)
+  - name: Sri Lanka - Infinity Center & Action Forum 
     picture: ""
-    text: "Im Norden Sri Lankas fördert Studieren Ohne Grenzen finanziell bedürftigen jungen Erwachsenen die Teilhabe an Computerkursen und Accounting Kursen."
+    text: "Infinity Center: Im Norden Sri Lankas fördert Studieren Ohne Grenzen finanziell bedürftigen jungen Erwachsenen die Teilhabe an Computerkursen und Accounting Kursen. Action Forum: Im Osten des Landes förderte Studieren Ohne Grenzen Studierende verschiedenster Fachbereiche. Das Programm lief aufgrund fehlender Projektpartnerschaft vor Ort 2023 aus."
     coordinates:
-      north: 6.857177
-      east: 79.89
+      north: 7.953
+      east: 80.63
     active: true
-  - name: Sri Lanka - Action Forum (Koordinaten prüfen)
-    picture: ""
-    text: "Im Osten des Landes förderte Studieren Ohne Grenzen Studierende verschiedenster Fachbereiche. Das Programm lief aufgrund fehlender Projektpartnerschaft vor Ort 2023 aus."
-    coordinates:
-      north: 6.8560
-      east: 80
-    active: false    
   - name: Tschetschenien
     picture: ""
     text: "Tschetschenische Studierende wurden 2008 bis 2023 bei einem Studienaufenthalt in Deutschland gefördert. Zudem wurde die Ausstattung der Bibliothek in Grozny gefördert. Da keine Hochschule bzw. Universität gefunden werden konnte, die bereit war mit dem Programm zu kooperieren, lief das Programm 2023 aus."
