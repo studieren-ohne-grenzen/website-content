@@ -23,7 +23,7 @@ Wir freuen uns auf deine Fragen und Anregungen unter: kontakt@studieren-ohne-gre
 Mitglied werden ist ganz leicht – fülle einfach unseren Online-Mitgliedsantrag aus. Alternativ kannst Du den Mitgliedsantrag herunterladen, am Computer ausfüllen und per E-Mail oder Post an uns schicken. Die Mitgliedschaft kann jederzeit zum Jahresende gekündigt werden. Mitglieder zahlen zur Deckung der Verwaltungskosten einen Beitrag von mindestens 18 Euro pro Jahr. Details findest Du in unserer Satzung und unserer Beitragsordnung.
 
 ---
-## Bundesweit
+## Bundesweit/Online
 
 ### Programm- und Projektgruppen
 Viele unserer Programmgruppentreffen finden online statt, da die Programme entweder von mehreren Lokalgruppen zusammen betreut werden oder aus bundesweit, teils international verstreuten, Mitgliedern bestehen. Informiere dich hier über die verschiedenen Programme. Auf der jeweiligen Seite findest du auch Informationen zu den Modi der treffen.
