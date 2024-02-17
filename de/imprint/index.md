@@ -62,11 +62,6 @@ Die Studieren-Ohne-Grenzen-Website und die hierauf befindlichen von Studieren Oh
 
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
-
-## Nutzung von PIWIK Webtracking
-
-Zu statistischen Zwecken und um festzustellen, wie unsere Besucher auf uns aufmerksam geworden sind, setzen wir die Webtracking-Software PIWIK ein. Damit wird z.B. Zahl und Umfang der Seitenabrufe, der Zugang über Suchmaschinen und die Verwendung von Suchbegriffen dokumentiert.
-
 ## Aufsichtsbehörde Datenschutz
 
 Der Landesbeauftragte für den Datenschutz Baden-Württemberg
