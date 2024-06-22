@@ -51,9 +51,7 @@ places:
   - name: Dresden
     picture: lokalgruppen/dresden.jpg
     text: |-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nec malesuada dolor. Sed justo justo, ornare non cursus nec, aliquam aliquam tortor. Suspendisse feugiat metus lectus, ac blandit tortor euismod non. Vestibulum porta efficitur faucibus. In eu turpis ligula. Duis ullamcorper lacinia nisl, eu sollicitudin neque egestas vitae. Donec nec ex augue. Donec vitae diam vitae dui tempus ornare vel eget mi.
-
-      Etiam purus ante, blandit id laoreet vitae, gravida vel erat. Aliquam lobortis orci dolor, vitae tincidunt nunc tempor a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut ipsum quis sem iaculis commodo. Suspendisse maximus aliquet aliquet. Curabitur vel eros eget sapien dignissim facilisis. Nunc laoreet auctor sollicitudin. Mauris congue porta condimentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec accumsan tincidunt quam. Ut a dui ornare, ullamcorper elit nec, congue magna. Quisque egestas, orci vel efficitur commodo, nunc lectus congue velit, quis pulvinar lectus libero vitae odio. Etiam lacinia velit pretium nunc pretium vestibulum.
+      Hallo Dresden, wir sind gerade etwas inaktiver aber wenn du Lust hast aktiv zu werden schreib doch einfach Simon eine Mail: <a href="mailto:simon.weber@studieren-ohne-grenzen.org">Simons Mail :)</a>
     social:
       - type: instagram
         handle: sog_dresden
