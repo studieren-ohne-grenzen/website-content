@@ -67,7 +67,7 @@ places:
     active: true
   - name: Frankfurt
     picture: ''
-    text: ''
+    text: 'Hallo Welt'
     social:
       - type: instagram
         handle: sog_frankfurt
