@@ -7,15 +7,15 @@ title: DR Kongo ‒ Mweso
 ## Programmgruppe
 **Programmgruppentreffen:** LG Berlin (Mittwochs)
 
-**Erreichbarkeit:** mweso@studiern-ohne-grenzen.org
+**Erreichbarkeit:** mweso@studiern-ohne-grenzen.org; berlin@studieren-ohne-grenzen.org
 
 ## Stipendienprogramm 
 
 **Programmstart:** 2010
 
-**Aktuell gefördert:** 1??? Stipendiat aktuell gefördert
+**Aktuell gefördert:** mehr als 50 Stipendiat:innen 
 
-**Insgesamt gefördert:** 8 ??? Stipendiat:innen 
+**Insgesamt gefördert:** über 140 Stipendiat:innen 
 
 In Mweso im Osten der Demokratischen Republik Kongo vergibt Studieren Ohne Grenzen Stipendien an engagierte Studierende der landwirtschaftlichen Hochschule Institut Supérieur d’Études Agronomiques (ISEA). Um die nachhaltige Nutzung des landwirtschaftlichen Potentials der Region zu fördern, geben die Stipendiat:innen und Alumni:ae ihr Wissen durch eigene Projekte an die Bevölkerung weiter und tragen so zur Ernährungssicherung in der Region bei. 
 
