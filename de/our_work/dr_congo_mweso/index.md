@@ -17,6 +17,7 @@ title: DR Kongo ‒ Mweso
 
 **Insgesamt gefördert:** über 140 Stipendiat:innen (Stand 2024) 
 
+
 In Mweso im Osten der Demokratischen Republik Kongo vergibt Studieren Ohne Grenzen Stipendien an engagierte Studierende der landwirtschaftlichen Hochschule Institut Supérieur d’Études Agronomiques (ISEA). Um die nachhaltige Nutzung des landwirtschaftlichen Potentials der Region zu fördern, geben die Stipendiat:innen und Alumni:ae ihr Wissen durch eigene Projekte an die Bevölkerung weiter und tragen so zur Ernährungssicherung in der Region bei. 
 
 Das Stipendium umfasst neben der Finanzierung des Studiums am ISEA auch eine ideelle Förderung.
