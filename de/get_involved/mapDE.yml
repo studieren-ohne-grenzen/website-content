@@ -16,7 +16,7 @@ places:
       north: 50.776667
       east: 6.083611
     text_flow: left
-    active: true
+    active: false
   - name: Bayreuth
     picture: ''
     text: Die Lokalgruppe Bayreuth ist aufgrund fehlender Mitglieder aktuell leider inaktiv.
@@ -84,7 +84,7 @@ places:
     coordinates:
       north: 51.533889
       east: 9.935556
-    active: true
+    active: false
   - name: Heidelberg
     picture: ''
     text: Die Lokalgruppe Heidelberg ist aufgrund fehlender Mitglieder aktuell leider inaktiv.
@@ -175,4 +175,4 @@ places:
       north: 54.092441
       east: 12.099147
     text_flow: left
-    active: true
+    active: false
