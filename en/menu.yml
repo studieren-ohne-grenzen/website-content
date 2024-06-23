@@ -11,9 +11,6 @@ items:
   - name: Donate
     url: donate
     children: []
-  - name: Scholarships
-    url: scholarships
-    children: []
   - name: Shop
     url: shop
     children: []
