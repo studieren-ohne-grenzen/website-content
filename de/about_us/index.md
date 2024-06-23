@@ -8,7 +8,7 @@ image: /lokalgruppen/aachen.jpg
 
 ## Vereinsgeschichte
 
-<timeline timeline-config="about_us/timeline"></timeline>
+<sog-timeline timeline-config="about_us/timeline"></sog-timeline>
 
 ## Vision und Ansatz
 
