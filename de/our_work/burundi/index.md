@@ -14,9 +14,9 @@ title: Burundi
 
 **Programmstart:** 2018
 
-**Aktuell gefördert:** 3 Stipendiat ??? (Stand 2024)
+**Aktuell gefördert:** 2 Stipendiat (Stand 2024)
 
-**Insgesamt gefördert:** 4 ??? Stipendiat:innen
+**Insgesamt gefördert:** 6 Stipendiat:innen
 
 In Burundi werden Studierende für die Dauer eines Hochschulstudiums an einer der vier öffentlichen und acht privaten Hochschulen des Landes gefördert. Das Stipendium richtet sich an Studierende aller Studiengänge und umfasst neben studienbezogenen Kosten auch Lebenshaltungs- und Wohnungskosten. Außerdem können im Rahmen des Studiums anfallende Kosten, zum Beispiel für Praktika oder Prüfungsgebühren, übernommen werden. Zudem werden sie ideell unterstützt z.B. bei der Teilnahme an Workshops, durch die Projektgruppe sowie durch eine Mitarbeiterin in Bujumbura.
 
@@ -27,3 +27,6 @@ Die Projekte umfassen beispielsweise kostenlose Rechtsberatung für Kinder und F
 
 ### Mitarbeitende vor Ort:
 In Bujumbura haben wir eine Mitarbeiterin. Sie versorgt uns mit allen nötigen Informationen für unsere Arbeit, organisiert die Ausschreibungen für neue Stipendienplätze und kümmert sich  bei Problemen und Fragen um unsere Stipendiat*innen und steht ihnen, wie auch uns, mit Rat und Tat zur Seite. Ihre Einschätzung ist in jeder Situation besonders wichtig für uns, da sie uns weite Einblicke in die Situation vor Ort geben kann. Der Austausch mit ihr findet regelmäßig per E-Mail statt, um alle Beteiligten stets auf dem Laufenden über alle Vorgänge im Programm zu halten.
+
+### Zukunft des Projekts
+Die AG Burundi ist motiviert ein neues Auswahlverfahren zu starten, um neue Menschen im Stipendienprogramm aufzunehmen. Hierfür sucht die AG Burundi noch tatkräftige Unterstützung.
