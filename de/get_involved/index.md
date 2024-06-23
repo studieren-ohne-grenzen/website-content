@@ -8,6 +8,9 @@ Wenn du mehr über die einzelnen Lokalgruppen erfahren willst, klicke einfach da
 
 <sog-map map-type="germany" places-config="get_involved/mapDE"></sog-map>
 
+<br>
+<br>
+
 Es gibt noch keine Gruppe in deiner Stadt? – Gründe gerne selbst eine Lokalgruppe. Wir helfen dir gerne dabei. Kontaktiere uns einfach unter kontakt@studieren-ohne-grenzen.org
 Du hast Fragen zu den Lokalgruppen: schreib uns ebenfalls unter kontakt@studieren-ohne-grenzen.org
 
