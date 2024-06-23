@@ -54,7 +54,7 @@ places:
     active: false
   - name: Westbank
     picture: "In der Westbank werden Studierende verschiedener Studiengänge gefördert und bekommen dabei einen Zuschuss zu Studienkosten sowie Lebenshaltungskosten."
-    text: 
+    text: Das Stipendienprogramm in der Westbank fördert seit 2019 in Kooperation mit einer lokalen Organisations junge Menschen finanziell sowie ideell.
     coordinates:
       north: 31.90
       east: 35.19
