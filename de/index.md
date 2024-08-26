@@ -1,4 +1,5 @@
 ---
+title: null
 description: Studieren Ohne Grenzen setzt sich für Hochschulbildung in Krisenregionen ein. Wir vergeben Stipendien an bedürftige Studierende, tragen zur Verbesserung der Bildungsinfrastruktur bei und möchten in der Öffentlichkeit ein Bewusstsein für die Situation in den Projektregionen schaffen.
 ---
 

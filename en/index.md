@@ -1,4 +1,5 @@
 ---
+title: null
 description: Studying Without Borders is committed to higher education in conflict areas. We award scholarships to needy students, contribute to the improvement of the education infrastructure, and raise the awareness of the German public for the situation in our target areas.
 ---
 
