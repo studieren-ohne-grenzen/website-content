@@ -6,7 +6,7 @@ title: Mitmachen
 Studieren Ohne Grenzen hat Lokalgruppen in verschiedenen Städten. 
 Wenn du mehr über die einzelnen Lokalgruppen erfahren willst, klicke einfach darauf.
 
-<sog-map map-type="germany" places-config="get_involved/mapDE"></sog-map>
+<sog-map map-type="germany" places-config="get_involved/map_germany"></sog-map>
 
 <br>
 <br>
