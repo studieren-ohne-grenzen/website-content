@@ -10,12 +10,12 @@ Hier stellen wir gemäß der Selbstverpflichtung zentrale Informationen über un
 
 **1. Name, Sitz, Anschrift und Gründungsjahr**
 - Name: Etudes Sans Frontières – Studieren Ohne Grenzen Deutschland e.V., kurz: SOG
--	Sitz, Anschrift, Vereinsregister- und Steuernummer: siehe Impressum
+-	Sitz, Anschrift, Vereinsregister- und Steuernummer: siehe [Impressum](/imprint)
 -	Gründungsjahr: 2006
 
 **2. Vollständige Satzung sowie Angaben zu den Zielen unserer Organisation**
--	Satzung: siehe Satzung
--	Ziele unserer Organisation: siehe Vision und Ansatz
+-	Satzung: siehe [Satzung](/legal/Satzung_2024.pdf)
+-	Ziele unserer Organisation: siehe [Vision und Ansatz](/about_us#vision-und-ansatz)
 
 **3. Angaben zur Steuerbegünstigung**
 
@@ -24,11 +24,11 @@ Unsere Arbeit ist wegen Förderung der Bildung und der Entwicklungszusammenarbei
 Etudes Sans Frontières – Studieren Ohne Grenzen Deutschland e.V. ist als gemeinnützig und mildtätig anerkannt. Wir können Ihnen für Ihre Spende deshalb eine Zuwendungsbestätigung zukommen lassen. Mehr zu den Spendenmöglichkeiten hier
 
 **4. Name und Funktion wesentlicher Entscheidungsträger**
--	Namen der Vorstandsmitglieder: siehe Impressum
+-	Namen der Vorstandsmitglieder: siehe [Impressum](/imprint)
 -	Aufbau unseres Vereins: siehe Organisationsstruktur
 
 **5. Tätigkeitsbericht**
--	Aufgrund der aktuellen Situation in Afghanistan überarbeiten wir gerade unsere Wirkungsberichte, um unsere (ehemaligen) Stipendiat:innen nicht in Gefahr zu bringen. Die Wirkungsberichte können weiterhin angefragt werden per Mail an: mailto:kontakt@studieren-ohne-grenzen.org
+-	Aufgrund der aktuellen Situation in Afghanistan überarbeiten wir gerade unsere Wirkungsberichte, um unsere (ehemaligen) Stipendiat:innen nicht in Gefahr zu bringen. Die Wirkungsberichte können weiterhin angefragt werden per Mail an: kontakt@studieren-ohne-grenzen.org
 
 **6. Personalstruktur**
 -	7 ehrenamtliche Vorstandsmitglieder
@@ -41,7 +41,7 @@ Etudes Sans Frontières – Studieren Ohne Grenzen Deutschland e.V. ist als geme
 
 **9. Gesellschaftsrechtliche Verbundenheit mit Dritten**
 
-Etudes Sans Frontières – Studieren Ohne Grenzen Deutschland e.V. ist Mitglied im [Verband Deutscher Studierendeninitiativen e.V. (VDSI)](https://www.vdsi.org/). Unsere Projekte führen wir z. T. in Zusammenarbeit mit NGOs vor Ort durch. Weitere Informationen hierzu finden sich auf den entsprechenden Projektseiten.
+Etudes Sans Frontières – Studieren Ohne Grenzen Deutschland e.V. ist Mitglied im [Verband Deutscher Studierendeninitiativen e.V. (VDSI)](https://www.vdsi.org/). Unsere Projekte führen wir z. T. in Zusammenarbeit mit NGOs vor Ort durch. Weitere Informationen hierzu finden sich auf den entsprechenden [Projektseiten](/our_work).
 
 **10. Namen von juristischen Personen, deren jährliche Zahlungen mehr als 10 % der Gesamtjahreseinnahmen ausmachen**
 sdfsddf
