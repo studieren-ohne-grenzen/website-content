@@ -15,15 +15,6 @@ items:
             url: our_work/sri_lanka
           - name: Westbank
             url: our_work/westbank
-      - name: Vision and Approach
-        hash: vision-und-ansatz
-        children:
-          - name: Improve Education Quality
-            hash: bildungsqualität-verbessern
-          - name: Promote Engagement
-            hash: engagement-fördern
-          - name: Raise Awareness
-            hash: bewusstsein-schaffen
   - name: About Us
     url: about_us
     children:
