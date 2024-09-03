@@ -30,22 +30,16 @@ items:
     url: get_involved
     children:
       - name: Locally
-        hash: ""
+        url: get_involved/on_site
         children:
-          - name: Aachen
-            hash: aachen
           - name: Berlin
             hash: berlin
           - name: Dresden
             hash: dresden
           - name: Frankfurt a.M.
             hash: frankfurt
-          - name: Göttingen
-            hash: göttingen
-          - name: Rostock
-            hash: rostock
-      - name: Nationwide
-        hash: bundesweit
+      - name: Remotely
+        url: get_involved/remotely
   - name: Support Us
     url: support_us
     children:
