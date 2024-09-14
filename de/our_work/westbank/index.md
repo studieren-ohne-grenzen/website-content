@@ -6,7 +6,7 @@ title: Westbank
 
 ## Programmgruppe
 
-**Programmgruppentreffen:** Online jeden zweiten Sonntag um 19 Uhr (Stand Januar 2024)
+**Programmgruppentreffen:** Online jeden Montag um 18:30
 
 **Erreichbarkeit:** westbank@studieren-ohne-grenzen.org
 
@@ -17,9 +17,9 @@ Die Westbank ist ein Gebiet das im Westen an Israel und im Osten an Jordanien gr
 
 **Programmstart:** 2020
 
-**Aktuell gefördert:** 4 Stipendiat aktuell gefördert (Stand 2024)
+**Aktuell gefördert:** 1 Stipendiat aktuell gefördert (Stand September 2024)
 
-**Insgesamt gefördert:** 5 Stipendiat:innen 
+**Erfolgreich abgeschlossene Förderungen:** 5 Stipendiat:innen (Stand September 2024)
 
 Die Stipendiat:innen studieren an unterschiedlichen Hochschulen der Westbank. Das Stipendium umfasst dabei die (anteilige) Übernahme von Studiengebühren sowie einen monatlichen Zuschuss zu den Lebenshaltungs- und Ausbildungskosten. 
 
@@ -33,4 +33,51 @@ Für im Projekt entstandene Kosten erhalten die Stipendiat:innen jährlich bis z
 
 Vor Ort wird das Programm durch CDCE-I unterstützt, z.B. in der Ausschreibung des Stipendiums sowie der ideellen Förderung der Stipendiat:innen, als Ansprechpartner:innen und durch Durchführung von Workshops. 
 
-CDCE-I ist eine nicht-staatliche gemeinnützige Organisation, die 2010 in Bethlehem gegründet wurde. CDCE-I fördert die Werte der Menschenrechte, des Pluralismus, der Gleichberechtigung, *Good Governance* und der bürgerschaftlichen Beteiligung innerhalb der Gesellschaft. Das Institut setzt sich dafür ein, die Umgebung in seiner Gemeinschaft zu verbessern und dies durch strategische Partnerschaften mit öffentlichen, privaten und zivilgesellschaftlichen Institutionen zu erreichen.
+CDCE-I ist eine 2010 in Bethlehem gegründete, gemeinnützige Nichtregierungsorganisation. 
+Das Ziel des CDCE-I ist neben der Förderung vom Pluralismus und Menschenrechten die verstärkte Partizipation vor allem junger Menschen an der Gestaltung der sozialen und ökonomischen Strukturen der Westbank durch eine Integration im Arbeitsmarkt. Dabei hat sich das CDCE-I dem Ziel der nachhaltigen Entwicklung der Region verschrieben und fördert verschiedene Projekte mit Schwerpunkten etwa bei der Karriereplanung, von der auch die Absolvent:innen unseres Programms profitieren können, oder „legal awareness“, welches durch Vermittlung von juristischem Basiswissen den Menschen eine stärke Durchsetzung ihrer Rechte ermöglichen soll. Zudem beteiligt sich das CDCE-I an verschiedenen Initiativen, etwa im Bereich von sicheren Transportwegen für Studierende oder zur Verschönerung von Schulen unter Mithilfe der Schüler:innen.
+
+### Arbeit der Programmgruppe
+Wir stehen den Stipendiat:innen nicht nur organisatorisch zur Seite, sondern befinden uns in regelmäßigem Austausch mit ihnen und sind so auch Ansprechpartner für persönliche Themen. Als Programmgruppe legen wir zudem Wert auf Öffentlichkeitsarbeit, indem wir einen nahbaren Zugang zu den Lebensrealitäten unserer Stipendiat:innen ermöglichen. 
+
+### Wir suchen Dich
+Schicke uns eine kurze Vorstellung von Dir per E-Mail oder Instagram und schau direkt bei einem unserer Meetings vorbei. Wir freuen uns auf Dich.
+
+ 
+
+Arabische:r Dolmetscher
+- Übersetzung von Unterlagen der Stipendiat:innen
+- Übersetzung von PR Material
+- Kommunikation mit lokalen Stakeholdern in der Westbank
+- Zusammenarbeit mit Kontaktperson für CDCE-I
+
+ 
+
+Verantwortliche:r für PR und Social Media
+- Organisation von Messeauftritten zur Projektvorstellung
+- Erstellung von PR Material
+- Social Media Beiträge
+- Mitgestaltung der neuen Webseite mit Artikeln zur Projektarbeit
+- Newsletterbeiträge
+- Zusammenarbeit mit Fundraising Team
+
+ 
+
+Rechtsbeauftragte:r
+- Überblick über die Leitlinien und Richtlinien des Vereins
+- Vertragserstellungen
+- Datenschutzbeauftragte:r
+
+ 
+
+Fundraising:
+- Akquise von privatem Sponsoring für die Projektarbeit (z.B. Studienkosten der Stipendiat:innen)
+- Elevator Pitches an Unternehmen vorbereiten und durchführen
+  ! Für eine non-profit Organisation !
+- Zusammenarbeit mit Kassenwart:in und PR Team
+
+ 
+
+Stipendiat:innen Buddy
+- Stehen unseren Stipendiat:innen während ihres Studiums zur Seite
+- Sind die ersten Ansprechpersonen bei jeglichen Angelegenheiten der Stipendiat:innen
+
