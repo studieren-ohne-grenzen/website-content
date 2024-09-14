@@ -39,6 +39,9 @@ Um Fördermitglied zu werden, müssen Sie lediglich den Online-Fördermitgliedsa
 ## Patenschaften
 Mit einer Projektpatenschaft können Sie gezielt ein spezifisches Projekt unterstützen. Sie können die Patenschaft ganz einfach online abschließen. Alternativ können Sie das Patenschaftsformular herunterladen, ausfüllen und per Post oder Email an uns schicken. Sollten Sie Fragen zu Patenschaften haben, wenden Sie sich einfach an patenschaft@studieren-ohne-grenzen.org.
 
+## Mit Einkaufen oder Bahnfahren spenden
+Über den [Bildungsspender](https://www.bildungsspender.de/sog/websearch) geht ein kleiner Teil, von dem was ihr zahlt, an Studieren Ohne Grenzen. Die Auswahl an Shops ist groß. Und das ganze ist ganz einfach. Ihr geht über den Bildungsspender in den jeweiligen Shop. Dann läuft alles wie immer. Ganz automatisch wird ein Anteil des gezahlten Betrags an uns überwiesen. So können wir zum Beispiel von eurer [Bahnfahrt](https://www.bildungsspender.de/sog/shopping?shop=4f055b00f537dad976c5c4c34c3745ad&org_id=478457001&from_topshops=1#) profitieren, von eurer Urlaubsbuchung genauso wie von Kauf von Büchern, Kleidung, Blumen, usw.
+
 ## Förderverein
 Um den Verein und dessen Idee zu unterstützen wurde der Förderverein gegründet. Das Ziel des Vereins ist ein bundesweites Alumni-Netzwerk und die Projekte von Studieren Ohne Grenzen zu fördern.
 
