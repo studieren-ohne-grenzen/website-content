@@ -15,6 +15,12 @@ items:
             url: our_work/sri_lanka
           - name: Westbank
             url: our_work/westbank
+          - name: Afghanistan (ausgelaufen)
+            url: our_work/afghanistan
+          - name: DR Kongo - Kindu (ausgelaufen)
+            url: our_work/dr_congo_kindu
+          - name: Tschetschenien (ausgelaufen)
+            url: our_work/chechnya
   - name: Über Uns
     url: about_us
     children:
