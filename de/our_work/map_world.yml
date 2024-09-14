@@ -54,7 +54,7 @@ places:
     active: false
   - name: Westbank
     picture: ""
-    text: Das Stipendienprogramm in der Westbank fördert junge Menschen seit 2019 in Kooperation mit einer lokalen Organisation. Es werden Studierende verschiedener Studiengänge an mehreren Universitäten gefördert und Sie bekommen dabei einen Zuschuss zu Studienkosten sowie Lebenshaltungskosten.
+    text: Das Stipendienprogramm in der Westbank fördert junge Menschen seit 2019 in Kooperation mit einer lokalen Organisation. Es werden Studierende verschiedener Studiengänge an mehreren Universitäten gefördert. Sie bekommen dabei einen Zuschuss zu Studienkosten sowie Lebenshaltungskosten.
     coordinates:
       north: 31.90
       east: 35.19
