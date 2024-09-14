@@ -27,6 +27,3 @@ Die Projekte umfassen beispielsweise kostenlose Rechtsberatung für Kinder und F
 
 ### Mitarbeitende vor Ort:
 In Bujumbura haben wir eine Mitarbeiterin. Sie versorgt uns mit allen nötigen Informationen für unsere Arbeit, organisiert die Ausschreibungen für neue Stipendienplätze und kümmert sich  bei Problemen und Fragen um unsere Stipendiat*innen und steht ihnen, wie auch uns, mit Rat und Tat zur Seite. Ihre Einschätzung ist in jeder Situation besonders wichtig für uns, da sie uns weite Einblicke in die Situation vor Ort geben kann. Der Austausch mit ihr findet regelmäßig per E-Mail statt, um alle Beteiligten stets auf dem Laufenden über alle Vorgänge im Programm zu halten.
-
-### Zukunft des Projekts
-Die AG Burundi ist motiviert ein neues Auswahlverfahren zu starten, um neue Menschen im Stipendienprogramm aufzunehmen. Hierfür sucht die AG Burundi noch tatkräftige Unterstützung.
