@@ -28,8 +28,6 @@ items:
         hash: vereinsgeschichte
       - name: Vision und Ansatz
         hash: vision-und-ansatz
-      - name: Studieren Ohne Grenzen in Zahlen
-        hash: studieren-ohne-grenzen-in-zahlen
       - name: Vorstand, Beirat und Revision
         url: about_us/board
   - name: Mitmachen
