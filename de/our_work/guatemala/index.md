@@ -7,15 +7,13 @@ title: Guatemala
 
 ## Programmgruppe
 
-**Programmgruppentreffen:** Online (AG Guatemala, LG Jena, LG Dresden)
-
 **Erreichbarkeit:** guatemala@studieren-ohne-grenzen.org
 
 ## Das Stipendienprogramm
 
 **Programmstart:** 2018
 
-**Aktuell gefördert:** 4 Stipendiat (Stand 2024)
+**Aktuell gefördert:** 4 Stipendiat:innen (Stand 2024)
 
 <br>
 
