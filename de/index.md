@@ -1,6 +1,6 @@
 # Willkommen
 
-Wir freuen uns über Ihr Interesse an uns und unserer Arbeit
+Wir freuen uns über dein Interesse an uns und unserer Arbeit
 
 # Wer wir sind
 
