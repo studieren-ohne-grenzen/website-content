@@ -35,3 +35,11 @@ Wir vergeben Stipendien an bedürftige Studierende aus Ländern des Globalen Sü
 Wir informieren über die politische und gesellschaftliche Lage in unseren Zielregionen, zum Beispiel durch Vorträge, Filmabende und Podiumsdiskussionen. Wir wollen die Rolle Deutschlands und der internationalen Gesellschaft in Konflikten weltweit hinterfragen und möchten globale Zusammenhänge zwischen unserem Handeln und der Situation in unseren Zielregionen aufzeigen. Auch innerhalb des Vereins hinterfragen wir unsere Arbeit, die dahinterstehenden Strukturen und die Folgen unseres Handelns. Durch den direkten Kontakt mit den Stipendiat:innen sowie unseren Kooperationspartner:innen wird zudem ein interkultureller Austausch ermöglicht.
 
 Unser Ansatz unterliegt einer ständigen Überprüfung und wird bei Bedarf angepasst. Studieren Ohne Grenzen versteht sich als lernende Organisation, die sich aus Erfolgen wie auch aus gemachten Fehlern heraus stetig verbessert. Für Feedback melde dich deshalb gerne unter kontakt@studieren-ohne-grenzen.org
+
+## Vorstand und Beirat 2024
+
+**Vorstand 2024:** 1. Vorsitzender: Tim Heucke; 2. Vorsitzender: Daniel Lerch; Kassenwärtin: Youn Yu; Beisitze: Katharina Batzing, Hendrikje Rost, Daniel Schreiber, Simon Weber
+
+**Beirat 2024:** Kira Eckart, Marie Konz, Feras Mulhem, Anoja Thanabalasingam, Stefan Waizenegger
+
+**Mehr Informationen** zu den aktuellen Vorstandsmitgliedern, den Aufgaben des Vorstands und des Beirats und ehemaligen Vorstands- und Beiratsmitgliedern hier.
