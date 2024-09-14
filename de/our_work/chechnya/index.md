@@ -7,7 +7,7 @@ Title: Chechnya
 ## Das Stipendienprogramm (ausgelaufen)
 **Programmstart:** 2008
 
-**Programmende:** 2023 (aufgrund fehlender kooperationswilliger Universität bzw. Hochschule)
+**Programmende:** 2023 (aufgrund fehlender kooperationswilliger Universität bzw. Hochschule ohne Studiengebühren für ausländische Studierende in Deutschland)
 
 **Insgesamt gefördert:** 8 Stipendiat:innen 
 
