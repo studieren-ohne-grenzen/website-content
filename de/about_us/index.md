@@ -2,6 +2,8 @@
 
 ## Vereinsgeschichte
 
+Willst du mehr über einen Meilenstein erfahren, klicke einfach darauf.
+
 <sog-timeline timeline-config="about_us/timeline"></sog-timeline>
 
 ## Vision und Ansatz
