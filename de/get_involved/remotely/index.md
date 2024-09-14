@@ -4,8 +4,10 @@ title: Mitmachen – Von Überall
 
 # Mitmachen – Vor Überall
 
-### Programm- und Projektgruppen
+## Programm- und Projektgruppen
 Viele unserer Programmgruppentreffen finden online statt, da die Programme entweder von mehreren Lokalgruppen zusammen betreut werden oder aus bundesweit, teils international verstreuten, Mitgliedern bestehen. Informiere dich hier über die verschiedenen Programme. Auf der jeweiligen Seite findest du auch Informationen zu den Modi der treffen.
+
+## Resorts
 
 ### IT Ressort 
 Das IT-Ressort betreut die IT-Systeme von SOG (und einigen assoziierten Vereinen).
@@ -20,3 +22,6 @@ Wer kann mitmachen?
 Jeder der Interesse an rechtlichen Angelegenheiten hat, kann sich im Rechts-Resort engagieren. Dabei ist kein bestimmtes Vorwissen oder gar ein Jurastudium notwendig. 
 Treffen: Aktuell trifft sich das Rechts-Resort nicht regelmäßig sondern arbeitet auf Anfrage. Die Treffen finden immer online statt.
 Bei Fragen oder Interesse melde dich am besten bei recht@studieren-ohne-grenzen.org
+
+# Vorstand
+Der Vorstand leitet die laufenden Geschäfte im Verein. Im Vorstand übernimmst du somit bundesweite Aufgaben und bekommst Einblicke in viele Verschiedene Arbeitsgruppen. Die Engagementbereiche sind breit gefächert, von Finanzen über Mitgliederbetreuung zu Öffentlichkeitsarbeit. 
