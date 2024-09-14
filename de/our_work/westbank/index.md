@@ -10,6 +10,11 @@ title: Westbank
 
 **Erreichbarkeit:** westbank@studieren-ohne-grenzen.org
 
+**Wir Suchen dich** sieh am Ende der Seite, in welchen Bereichen du uns unterstützen kannst.
+
+### Arbeit der Programmgruppe
+Wir stehen den Stipendiat:innen nicht nur organisatorisch zur Seite, sondern befinden uns in regelmäßigem Austausch mit ihnen und sind so auch Ansprechpartner für persönliche Themen. Als Programmgruppe legen wir zudem Wert auf Öffentlichkeitsarbeit, indem wir einen nahbaren Zugang zu den Lebensrealitäten unserer Stipendiat:innen ermöglichen. 
+
 ## Die Projektregion:
 Die Westbank ist ein Gebiet das im Westen an Israel und im Osten an Jordanien grenzt. In seinen 5800 Quadratkilometer Fläche leben rund 85 Prozent Palästinenser:innen und 15 Prozent Juden und Jüdinnen. Seit 1967 wird das Gebiet völkerrechtswidrig (Resolution 478 (1980) of 20 August 1980 ) von Israel besetzt. Aufgrund der territorialen Ansprüche von sowohl palästinensischer als auch israelischer Seite kommt es in dem Gebiet regelmäßig zu Spannungen. Aufgrund der wirtschaftlichen Lage in der Westbank fehlt vielen jungen Menschen das Geld um dort zu studieren.
 
@@ -36,21 +41,14 @@ Vor Ort wird das Programm durch CDCE-I unterstützt, z.B. in der Ausschreibung d
 CDCE-I ist eine 2010 in Bethlehem gegründete, gemeinnützige Nichtregierungsorganisation. 
 Das Ziel des CDCE-I ist neben der Förderung vom Pluralismus und Menschenrechten die verstärkte Partizipation vor allem junger Menschen an der Gestaltung der sozialen und ökonomischen Strukturen der Westbank durch eine Integration im Arbeitsmarkt. Dabei hat sich das CDCE-I dem Ziel der nachhaltigen Entwicklung der Region verschrieben und fördert verschiedene Projekte mit Schwerpunkten etwa bei der Karriereplanung, von der auch die Absolvent:innen unseres Programms profitieren können, oder „legal awareness“, welches durch Vermittlung von juristischem Basiswissen den Menschen eine stärke Durchsetzung ihrer Rechte ermöglichen soll. Zudem beteiligt sich das CDCE-I an verschiedenen Initiativen, etwa im Bereich von sicheren Transportwegen für Studierende oder zur Verschönerung von Schulen unter Mithilfe der Schüler:innen.
 
-### Arbeit der Programmgruppe
-Wir stehen den Stipendiat:innen nicht nur organisatorisch zur Seite, sondern befinden uns in regelmäßigem Austausch mit ihnen und sind so auch Ansprechpartner für persönliche Themen. Als Programmgruppe legen wir zudem Wert auf Öffentlichkeitsarbeit, indem wir einen nahbaren Zugang zu den Lebensrealitäten unserer Stipendiat:innen ermöglichen. 
-
-### Wir suchen Dich
+## Wir suchen Dich
 Schicke uns eine kurze Vorstellung von Dir per E-Mail oder Instagram und schau direkt bei einem unserer Meetings vorbei. Wir freuen uns auf Dich.
-
- 
 
 Arabische:r Dolmetscher
 - Übersetzung von Unterlagen der Stipendiat:innen
 - Übersetzung von PR Material
 - Kommunikation mit lokalen Stakeholdern in der Westbank
 - Zusammenarbeit mit Kontaktperson für CDCE-I
-
- 
 
 Verantwortliche:r für PR und Social Media
 - Organisation von Messeauftritten zur Projektvorstellung
@@ -60,22 +58,16 @@ Verantwortliche:r für PR und Social Media
 - Newsletterbeiträge
 - Zusammenarbeit mit Fundraising Team
 
- 
-
 Rechtsbeauftragte:r
 - Überblick über die Leitlinien und Richtlinien des Vereins
 - Vertragserstellungen
 - Datenschutzbeauftragte:r
-
- 
 
 Fundraising:
 - Akquise von privatem Sponsoring für die Projektarbeit (z.B. Studienkosten der Stipendiat:innen)
 - Elevator Pitches an Unternehmen vorbereiten und durchführen
   ! Für eine non-profit Organisation !
 - Zusammenarbeit mit Kassenwart:in und PR Team
-
- 
 
 Stipendiat:innen Buddy
 - Stehen unseren Stipendiat:innen während ihres Studiums zur Seite
