@@ -55,5 +55,5 @@ items:
         hash: patenschaften
       - name: Förderverein
         hash: förderverein
-  - name: Shop
-    url: shop
+      - name: Bildungsspender
+        hash: 
