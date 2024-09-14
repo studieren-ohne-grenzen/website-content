@@ -10,17 +10,15 @@ Der von 1983 bis 2009 wütende Bürgerkrieg in Sri Lanka zwischen Regierungstrup
 
 ## Programmgruppe
 
-**Programmgruppentreffen:** ???
-
 **Erreichbarkeit:** srilanka@studieren-ohne-grenzen.org
 
 ## Das Stiendienprogramm - Infinity Center 
 
 **Programmstart:** 2015
 
-**Insgesamt gefördert:** 24 Stipendiat:innen ??
+**Insgesamt gefördert:** 24 Stipendiat:innen
 
-**Aktuell gefördert:** 0 Stipendiat ??? (Stand 2024)
+**Aktuell gefördert:** 0 Stipendiat (Stand 2024)
 
 Seit Anfang 2015 ermöglicht Studieren Ohne Grenzen im Norden des Landes finanziell bedürftigen jungen Erwachsenen die Teilnahme an halbjährigen Computerkursen sowie akkreditierten AAT-Kursen (The Association of Accounting Technicians) am Infinity Center for Higher Studies (ICHS). 
 
@@ -38,7 +36,9 @@ Die Stipendiat:innen unterstützen entweder lokale NGOs oder organisieren eigene
 ## Das Stipendienprogramm - Action Forum (ausgelaufen)
 
 **Programmstart:** 2016
+
 **Programmende:** 2023 (aufgrund von fehlenden Kooperationspartner:innen vor Ort)
+
 **Insgesamt gefördert:** 3 Stipendiat:innen
 
 Im stark ländlich geprägten Osten des Landes fördert Studieren Ohne Grenzen in Zusammenarbeit mit der Organisation Action Forum for Social Development engagierte Studierende in ihrem Studium. Das Studium ist an keine bestimmte Hochschule geknüpft, sodass verschiedenste Fachbereiche gefördert werden können. Seit 2020 konnte nach Abschluss eines Bachelorstudiums auch die Förderung eines Masterstudiengangs ermöglicht werden.
