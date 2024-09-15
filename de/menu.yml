@@ -28,6 +28,8 @@ items:
         hash: vereinsgeschichte
       - name: Vision und Ansatz
         hash: vision-und-ansatz
+      - name: Transparenz
+        url: transparency
       - name: Vorstand, Beirat und Revision
         url: about_us/board
   - name: Mitmachen
