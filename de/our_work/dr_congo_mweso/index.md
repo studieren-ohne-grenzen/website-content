@@ -5,7 +5,7 @@ title: DR Kongo ‒ Mweso
 # Demokratische Republik Kongo ‒ Mweso
 
 ## Programmgruppe
-**Programmgruppentreffen:** in Berlin (Mittwochs)
+**Programmgruppentreffen:** unregelmäßig (Stand Sept. 2024)
 
 **Erreichbarkeit:** mweso@studiern-ohne-grenzen.org; berlin@studieren-ohne-grenzen.org
 
