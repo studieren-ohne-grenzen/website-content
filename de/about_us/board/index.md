@@ -1,9 +1,13 @@
-## Vorstand, Beirat und Revision
+---
+title: Vorstand, Beirat und Revision
+---
 
-### Vorstand
+# Vorstand, Beirat und Revision
+
+## Vorstand
 Der Vorstand wird von der jährlichen Mitgliederversammlung für ein Jahr gewählt und leitet die laufenden Geschäfte des Vereins. Er besteht aus dem 1. und 2. Vorsitz, dem:der Kassenwart:in, sowie fünf bis sieben Beisitzenden. Kontaktiert werden kann der Vorstand über vorstand@studieren-ohne-grenzen.org
  
-### Beirat
+## Beirat
 Der Beirat nimmt eine beratende und moderierende Rolle ein. Seine Mitglieder tragen ihre Erfahrung in den Verein und stehen den Gruppierungen mit Rat und Tat zur Seite. Sie sind als neutrales und unabhängiges Gremium Ansprechpartner:innen für Vorstand, Lokal-, Projekt- und Arbeitsgruppen sowie jedes einzelne Mitglied, insbesondere zu:
 
 - Moderation und Mediation
@@ -12,12 +16,12 @@ Der Beirat nimmt eine beratende und moderierende Rolle ein. Seine Mitglieder tra
 
 Der Beirat besteht aus 3 bis 8 Personen und wird jährlich durch die Mitgliederversammlung gewählt. Anfragen können an beirat@studieren-ohne-grenzen.org gestellt werden.
 
-### Revision
+## Revision
 Die Revision überwacht, ob die Vereinsarbeit gemäß der Satzung und den erlassenen Richtlinien stattfindet und prüft den Jahresabschluss, den Geschäftsbericht und die Kontenblätter. Sie besteht aus mindestens zwei Personen und wird auf der Mitgliederversammlung gewählt.
 
- <br>
+<br>
  
-### Aktueller Vorstand
+## Aktueller Vorstand
 **1. Vorsitzender: Tim Heucke**
 
 Hallo ihr lieben SOGler*innen, Meine Name ist Tim, ich werde dieses Jahr 25 und komme aus dem wunderschönen Berlin. Ich habe im April 2022 bei SOG-Berlin angefangen und bin dann relativ schnell mit in die Projektkoordination gerutscht. Letztes Jahr bin ich spontan in den Vorstand und habe die Programme betreut. Ich hatte ein sehr schönes Vorstandsjahr und habe viel Neues dazulernen können und freue mich nun als 1. Vorsitz den Vorstand und Verein weiter begleiten zu dürfen, weiterzuführen und zu verbessern. Ich finde wir als SOG machen sehr wichtige Arbeit und es ist schön sich ehrenamtlich & sinnstiftend zu engagieren!
@@ -48,15 +52,15 @@ Hi, ich bin auch Daniel, 20 Jahre alt und studiere an der TU Berlin Naturwissens
 
 Ich bin Simon und studiere Regenerative Energiesysteme an der TU in Dresden. 2022 war ich Lokalkoordination in Dresden. 2023 dann Beisitz für Lokalkoordination und jetzt freue ich mich dieses Jahr mein Amt fortsetzen zu können.  Wenn ich nicht gerade an Uni oder SOG-Arbeiten sitze höre ich gerne und viel Musik und freue mich über Berge und deren Wege hinauf.
 
-### Aktueller Beirat
+## Aktueller Beirat
 Feras Mulhem, Anoja Thanabalasingam, Marie Konz, Stefan Waizenegger, Kira Eckart
 
-### Aktuelle Revision
+## Aktuelle Revision
 Julia Hellmig, Vincent Ohnesorge, Rico Mosig, Jaques Matteo Büsche
 
 <br>
 
-### Vorherige Vorstände
+## Vorherige Vorstände
 
 **2023** 
 
@@ -128,7 +132,7 @@ Die ursprüngliche 2. Vorsitzende Ruth Ranjan musste das Amt leider im laufenden
 
 1.Vorsitzender: Felix Weth; 2.Vorsitzende: Juliane Krüger; 1. Beisitzer: Nicolas Winkler; 2. Beisitzer: Friedemann Schulze-Fielitz; 3. Beisitzer: Christoph Müller
 
-### Vorherige Beiräte
+## Vorherige Beiräte
 
 **2023**
 
