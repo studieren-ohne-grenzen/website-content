@@ -47,7 +47,7 @@ items:
         children: 
           - name: Programm- und Projektgruppen
             hash: programm--und-projektgruppen
-          - name: IT-Resort
+          - name: IT-Ressort
             hash: it-ressort
           - name: Rechts Ressort
             hash: rechts-ressort
