@@ -16,9 +16,9 @@ Der von 1983 bis 2009 wütende Bürgerkrieg in Sri Lanka zwischen Regierungstrup
 
 **Programmstart:** 2015
 
-**Insgesamt gefördert:** 24 Stipendiat:innen
+**Insgesamt gefördert:** mind. 24 Stipendiat:innen
 
-**Aktuell gefördert:** 0 Stipendiat (Stand 2024)
+**Aktuell gefördert:** 2 Stipendiat (Stand 2024)
 
 Seit Anfang 2015 ermöglicht Studieren Ohne Grenzen im Norden des Landes finanziell bedürftigen jungen Erwachsenen die Teilnahme an halbjährigen Computerkursen sowie akkreditierten AAT-Kursen (The Association of Accounting Technicians) am Infinity Center for Higher Studies (ICHS). 
 
