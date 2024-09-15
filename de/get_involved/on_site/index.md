@@ -12,7 +12,9 @@ Die Lokalgruppen kannst du per Mail unter stadt@studieren-ohne-grenzen.org errei
 
 <br>
 <br>
+
 ---
+
 Es gibt noch keine Gruppe in deiner Stadt oder die Gruppe ist inaktiv? – Gründe gerne selbst eine Lokalgruppe oder reaktiviere sie. Wir helfen dir gerne dabei. Kontaktiere uns einfach unter kontakt@studieren-ohne-grenzen.org. Auch für alle Fragen zu den Lokalgruppen erreichst du uns unter dieser Mail.
 
 Du möchtest dich lieber in einer bereits bestehenden Gruppe engagieren, dann guck doch mal bei den [bundesweiten Gruppen](/get_involved/remotely) vorbei.
