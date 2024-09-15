@@ -25,5 +25,5 @@ Jeder der Interesse an rechtlichen Angelegenheiten hat, kann sich im Rechts-Reso
 Treffen: Aktuell trifft sich das Rechts-Resort nicht regelmäßig sondern arbeitet auf Anfrage. Die Treffen finden immer online statt.
 Bei Fragen oder Interesse melde dich am besten bei recht@studieren-ohne-grenzen.org
 
-# Vorstand
+## Vorstand
 Der Vorstand leitet die laufenden Geschäfte im Verein. Im Vorstand übernimmst du somit bundesweite Aufgaben und bekommst Einblicke in viele Verschiedene Arbeitsgruppen. Die Engagementbereiche sind breit gefächert, von Finanzen über Mitgliederbetreuung zu Öffentlichkeitsarbeit. 
