@@ -19,7 +19,7 @@ places:
     active: false
   - name: Bayreuth
     picture: ''
-    text: Die Lokalgruppe Bayreuth ist aufgrund fehlender Mitglieder aktuell leider inaktiv.
+    text: Die Lokalgruppe Bayreuth ist aktuell leider inaktiv.
     social: []
     coordinates:
       north: 49.948056
@@ -48,7 +48,7 @@ places:
     active: true
   - name: Bonn
     picture: ''
-    text: Die Lokalgruppe Bonn ist aufgrund fehlender Mitglieder aktuell leider inaktiv.
+    text: Die Lokalgruppe Bonn ist aktuell leider inaktiv.
     social: []
     coordinates:
       north: 50.733992
@@ -57,7 +57,7 @@ places:
   - name: Dresden
     picture: lokalgruppen/Dresden.jpg
     text: |-
-      Hallo Dresden und Sachsen, wir sind ein loser Zusammenschluss aus aktiven Mitgliedern die sich Projektspezifisch treffen. Zusammen organisieren wir Events und klären über Postkolonialismus auf. Schaue am besten auf unserem Instagram vorbei um nichts aktuelles zu verpassen oder schreibe Simon einfach eine Mail: <a href="mailto:simon.weber@studieren-ohne-grenzen.org">Simons Mail</a>
+      Hallo Dresden und Sachsen, wir sind ein loser Zusammenschluss aus aktiven Mitgliedern die sich projektspezifisch treffen. Zusammen organisieren wir Events und klären über Postkolonialismus auf. Schaue am besten auf unserem Instagram vorbei um nichts aktuelles zu verpassen oder schreibe Simon einfach eine Mail: <a href="mailto:simon.weber@studieren-ohne-grenzen.org">Simons Mail</a>
     social:
       - type: instagram
         handle: sog_dresden
@@ -93,7 +93,7 @@ places:
     active: false
   - name: Heidelberg
     picture: ''
-    text: Die Lokalgruppe Heidelberg ist aufgrund fehlender Mitglieder aktuell leider inaktiv.
+    text: Die Lokalgruppe Heidelberg ist aktuell leider inaktiv.
     social: []
     coordinates:
       north: 49.41032
@@ -101,7 +101,7 @@ places:
     active: false
   - name: Jena
     picture: ''
-    text: Die Lokalgruppe Jena ist aufgrund fehlender Mitglieder aktuell leider inaktiv.
+    text: Die Lokalgruppe Jena ist aktuell leider inaktiv.
     social: []
     coordinates:
       north: 50.927206
@@ -109,7 +109,7 @@ places:
     active: false
   - name: Karlsruhe
     picture: ''
-    text: Die Lokalgruppe Karlsruhe ist aufgrund fehlender Mitglieder aktuell leider inaktiv.
+    text: Die Lokalgruppe Karlsruhe ist aktuell leider inaktiv.
     social: []
     coordinates:
       north: 49.014
@@ -118,7 +118,7 @@ places:
     active: false
   - name: Konstanz
     picture: ''
-    text: Die Lokalgruppe Konstanz ist aufgrund fehlender Mitglieder aktuell leider inaktiv.
+    text: Die Lokalgruppe Konstanz ist aktuell leider inaktiv.
     social: []
     coordinates:
       north: 47.66336
@@ -126,7 +126,7 @@ places:
     active: false
   - name: Köln
     picture: ''
-    text: Die Lokalgruppe Köln aufgrund fehlender Mitglieder ist aktuell leider inaktiv.
+    text: Die Lokalgruppe Köln ist aktuell leider inaktiv.
     social: []
     coordinates:
       north: 50.938056
@@ -134,7 +134,7 @@ places:
     active: false
   - name: Leipzig
     picture: ''
-    text: Die Lokalgruppe Leipzig ist aufgrund fehlender Mitglieder aktuell leider inaktiv.
+    text: Die Lokalgruppe Leipzig ist aktuell leider inaktiv.
     social: []
     coordinates:
       north: 51.340333
@@ -142,7 +142,7 @@ places:
     active: false
   - name: Marburg
     picture: ''
-    text: Die Lokalgruppe Marburg ist aufgrund fehlender Mitglieder aktuell leider inaktiv.
+    text: Die Lokalgruppe Marburg ist aktuell leider inaktiv.
     social: []
     coordinates:
       north: 50.808453
@@ -150,7 +150,7 @@ places:
     active: false
   - name: München
     picture: ''
-    text: Die Lokalgruppe München ist aufgrund fehlender Mitglieder aktuell leider inaktiv.
+    text: Die Lokalgruppe München ist aktuell leider inaktiv.
     social: []
     coordinates:
       north: 48.137222
@@ -158,7 +158,7 @@ places:
     active: false
   - name: Stuttgart
     picture: ''
-    text: Die Lokalgruppe Stuttgart aufgrund fehlender Mitglieder ist aktuell leider inaktiv.
+    text: Die Lokalgruppe Stuttgart ist aktuell leider inaktiv.
     social: []
     coordinates:
       north: 48.775556
@@ -166,7 +166,7 @@ places:
     active: false
   - name: Tübingen
     picture: ''
-    text: Die Lokalgruppe Tübingen aufgrund fehlender Mitglieder ist aktuell leider inaktiv.
+    text: Die Lokalgruppe Tübingen ist aktuell leider inaktiv.
     social: []
     coordinates:
       north: 48.520144
