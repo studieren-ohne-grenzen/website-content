@@ -5,7 +5,7 @@ title: Mitmachen – Von Überall
 # Mitmachen – Vor Überall
 
 ## Programm- und Projektgruppen
-Viele unserer Programmgruppentreffen finden online statt, da die Programme entweder von mehreren Lokalgruppen zusammen betreut werden oder aus bundesweit, teils international verstreuten, Mitgliedern bestehen. Informiere dich hier über die verschiedenen Programme. Auf der jeweiligen Seite findest du auch Informationen zu den Modi der treffen.
+Viele unserer Programmgruppentreffen finden online statt, da die Programme entweder von mehreren Lokalgruppen zusammen betreut werden oder aus bundesweit, teils international verstreuten, Mitgliedern bestehen. Informiere dich [hier]() über die verschiedenen Programme. Auf der jeweiligen Seite findest du auch Informationen zu den Modi und Zeiten der Treffen.
 
 ## Ressorts
 
