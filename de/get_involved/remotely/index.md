@@ -5,7 +5,9 @@ title: Mitmachen – Von Überall
 # Mitmachen – Vor Überall
 
 ## Programm- und Projektgruppen
-Viele unserer Programmgruppentreffen finden online statt, da die Programme entweder von mehreren Lokalgruppen zusammen betreut werden oder aus bundesweit, teils international verstreuten, Mitgliedern bestehen. Informiere dich [hier](our_work) über die verschiedenen Programme. Auf der jeweiligen Seite findest du auch Informationen zu den Modi und Zeiten der Treffen. Alternativ kannst du der jeweiligen Programmgruppe auch direkt eine Email schicken unter programmname@studieren-ohne-grenzen.org (z.B. burundi@studieren-ohne-grenzen.org)
+Viele unserer Programmgruppentreffen finden online statt, da die Programme entweder von mehreren Lokalgruppen zusammen betreut werden oder aus bundesweit, teils international verstreuten, Mitgliedern bestehen. Informiere dich [hier](our_work) über die verschiedenen Programme. Auf der jeweiligen Seite findest du auch Informationen zu den Modi und Zeiten der Treffen. Alternativ kannst du der jeweiligen Programmgruppe auch direkt eine Email schicken unter programmname@studieren-ohne-grenzen.org (z.B. burundi@studieren-ohne-grenzen.org).
+
+Du findest die Idee von Studieren Ohne Grenzen super und hast einen Vorschlag für ein Projekt, das in unseren Rahmen passt? Wir freuen uns auf deine Anregungen unter: programme@studieren-ohne-grenzen.org.
 
 ## Ressorts
 
