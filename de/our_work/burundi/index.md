@@ -6,7 +6,7 @@ title: Burundi
 
 ## Programmgruppe
 
-**Programmgruppentreffen:** Online jeden Dienstag um 19 Uhr 
+**Programmgruppentreffen:** Online unregelmäßig (bezüglich dem nächsten Termin bitte die Programmgruppe kontaktieren)
 
 **Erreichbarkeit:** burundi@studieren-ohne-grenzen.org
 
