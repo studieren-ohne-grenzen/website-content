@@ -7,7 +7,7 @@ title: Mitmachen – Von Überall
 ## Programm- und Projektgruppen
 Viele unserer Programmgruppentreffen finden online statt, da die Programme entweder von mehreren Lokalgruppen zusammen betreut werden oder aus bundesweit, teils international verstreuten, Mitgliedern bestehen. Informiere dich hier über die verschiedenen Programme. Auf der jeweiligen Seite findest du auch Informationen zu den Modi der treffen.
 
-## Resorts
+## Ressorts
 
 ### IT Ressort 
 Das IT-Ressort betreut die IT-Systeme von SOG (und einigen assoziierten Vereinen).
