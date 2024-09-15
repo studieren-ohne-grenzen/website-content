@@ -2,7 +2,7 @@
 
 ### Vorstand
 Der Vorstand wird von der jährlichen Mitgliederversammlung für ein Jahr gewählt und leitet die laufenden Geschäfte des Vereins. Er besteht aus dem 1. und 2. Vorsitz, dem:der Kassenwart:in, sowie fünf bis sieben Beisitzenden. Kontaktiert werden kann der Vorstand über vorstand@studieren-ohne-grenzen.org
-
+ 
 ### Beirat
 Der Beirat nimmt eine beratende und moderierende Rolle ein. Seine Mitglieder tragen ihre Erfahrung in den Verein und stehen den Gruppierungen mit Rat und Tat zur Seite. Sie sind als neutrales und unabhängiges Gremium Ansprechpartner:innen für Vorstand, Lokal-, Projekt- und Arbeitsgruppen sowie jedes einzelne Mitglied, insbesondere zu:
 
@@ -15,6 +15,8 @@ Der Beirat besteht aus 3 bis 8 Personen und wird jährlich durch die Mitgliederv
 ### Revision
 Die Revision überwacht, ob die Vereinsarbeit gemäß der Satzung und den erlassenen Richtlinien stattfindet und prüft den Jahresabschluss, den Geschäftsbericht und die Kontenblätter. Sie besteht aus mindestens zwei Personen und wird auf der Mitgliederversammlung gewählt.
 
+ <br>
+ 
 ### Aktueller Vorstand
 **1. Vorsitzender: Tim Heucke**
 
@@ -51,6 +53,8 @@ Feras Mulhem, Anoja Thanabalasingam, Marie Konz, Stefan Waizenegger, Kira Eckart
 
 ### Aktuelle Revision
 Julia Hellmig, Vincent Ohnesorge, Rico Mosig, Jaques Matteo Büsche
+
+<br>
 
 ### Vorherige Vorstände
 
