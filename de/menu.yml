@@ -65,7 +65,7 @@ items:
       - name: Patenschaften
         hash: patenschaften
       - name: Bildungsspender
-        hash: Mit Einkaufen oder Bahnfahren spenden
+        hash: Mit-Einkaufen-oder-Bahnfahren-spenden
       - name: Förderverein
         hash: förderverein
 
