@@ -44,6 +44,17 @@ items:
             hash: frankfurt
       - name: Von Überall
         url: get_involved/remotely
+        children: 
+          - name: Programm- und Projektgruppen
+            hash: programm--und-projektgruppen
+          - name: IT-Resort
+            hash: it-ressort
+          - name: Rechts Ressort
+            hash: rechts-ressort
+          - name: Vorstand
+            hash: vorstand
+      - name: Mitglied werden
+        url: get_involved/membership
   - name: Unterstützen
     url: support_us
     children:
