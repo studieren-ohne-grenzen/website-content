@@ -38,6 +38,18 @@ Etudes Sans Frontières – Studieren Ohne Grenzen Deutschland e.V. ist als geme
 
 **7. Angaben zur Mittelherkunft & 8. Angaben zur Mittelverwendung**
 -	Eine finanzielle Übersicht finden Sie zusammengefasst in den jährlichen Geschäftsberichten (siehe 5.) oder detaillierter in den finanziellen Jahresabschlüssen:
+  - [Jahresabschluss 2019](legal/Jahresabschluss-2019.pdf)
+  - [Jahresabschluss 2018](legal/Jahresabschluss-2018.pdf)
+  - [Jahresabschluss 2017](legal/Jahresabschluss-2017.pdf)
+  - [Jahresabschluss 2016](legal/Jahresabschluss-2016.pdf)
+  - [Jahresabschluss 2015](legal/Jahresabschluss-2015.pdf)
+  - [Jahresabschluss 2014](legal/Jahresabschluss-2014.pdf)
+  - [Jahresabschluss 2013](legal/Jahresabschluss-2013.pdf)
+  - [Jahresabschluss 2012](legal/Jahresabschluss-2012.pdf)
+  - [Jahresabschluss 2011](legal/Jahresabschluss-2011.pdf)
+  - [Jahresabschluss 2010](legal/Jahresabschluss-2010.pdf)
+  - [Jahresabschluss 2009](legal/Jahresabschluss-2009.pdf)
+
 
 **9. Gesellschaftsrechtliche Verbundenheit mit Dritten**
 
