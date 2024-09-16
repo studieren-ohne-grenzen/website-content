@@ -4,7 +4,7 @@ Wir freuen uns über dein Interesse an uns und unserer Arbeit
 
 # Wer wir sind
 
-Studieren Ohne Grenzen fördert junge Menschen aus Krisenregionen, die mit einem eigenen Projekt zum nachhaltigen Wiederaufbau ihres Landes beitragen möchten. Durch die Vergabe von Stipendien vor Ort und in Deutschland sowie der Förderung von lokalen Bildungsinstitutionen ermöglicht der Verein sozial benachteiligten Menschen aus diesen Regionen den Zugang zu Hochschulbildung. Alle Mitglieder des Vereins engagieren sich ehrenamtlich. Studieren Ohne Grenzen besteht aus 17 Lokalgruppen an deutschen Hochschulstandorten mit insgesamt mehr als 1000 Mitgliedern, welche die Vergabe der Stipendien ermöglichen.
+Studieren Ohne Grenzen fördert junge Menschen aus Regionen des Globalen Südens, deren öffentliche (Bildungs-)Infrastruktur unter Krisen und teils gewalttätigen Konflikten gelitten hat und aus diesem Grund nicht für alle Menschen zugänglich ist. Durch die Vergabe von Stipendien sowie der Förderung lokaler Bildungsinstitutionen ermöglicht der Verein Menschen dieser Regionen, einen Zugang zu Hochschulbildung. Die von Studieren Ohne Grenzen geförderten jungen Menschen möchten mit eigenen Projekten zum nachhaltigen Wiederaufbau ihres Landes beitragen und die Zukunft nach ihren Vorstellungen gestalten. Alle Mitglieder von SOG engagieren sich ehrenamtlich.
 
 
 (Tokens noch einfügen)
