@@ -4,7 +4,7 @@ title: Transparenz
 # Transparenz
 
 In Deutschland gibt es keine einheitlichen Veröffentlichungspflichten für gemeinnützige Organisationen. 
-Deshalb hat sich Studieren Ohne Grenzen der [Initiative Transparente Zivilgesellschaft](https://www.transparente-zivilgesellschaft.de/) angeschlossen. 
+Deshalb hat sich Studieren Ohne Grenzen der [Initiative Transparente Zivilgesellschaft](https://www.transparente-zivilgesellschaft.de) angeschlossen. 
 
 Hier stellen wir gemäß der Selbstverpflichtung zentrale Informationen über unseren Verein Etudes Sans Frontières – Studieren Ohne Grenzen Deutschland e.V. übersichtlich bereit:
 
@@ -14,7 +14,7 @@ Hier stellen wir gemäß der Selbstverpflichtung zentrale Informationen über un
 -	Gründungsjahr: 2006
 
 **2. Vollständige Satzung sowie Angaben zu den Zielen unserer Organisation**
--	Satzung: siehe [Satzung](/legal/Satzung_2024.pdf)
+-	Satzung: siehe [Satzung](/legal/Satzung_2024.pdf){external}
 -	Ziele unserer Organisation: siehe [Vision und Ansatz](/about_us#vision-und-ansatz)
 
 **3. Angaben zur Steuerbegünstigung**
@@ -38,22 +38,22 @@ Etudes Sans Frontières – Studieren Ohne Grenzen Deutschland e.V. ist als geme
 
 **7. Angaben zur Mittelherkunft & 8. Angaben zur Mittelverwendung**
 -	Eine finanzielle Übersicht finden Sie zusammengefasst in den jährlichen Geschäftsberichten (siehe 5.) oder detaillierter in den finanziellen Jahresabschlüssen:
-  - [Jahresabschluss 2019](legal/Jahresabschluss-2019.pdf)
-  - [Jahresabschluss 2018](legal/Jahresabschluss-2018.pdf)
-  - [Jahresabschluss 2017](legal/Jahresabschluss-2017.pdf)
-  - [Jahresabschluss 2016](legal/Jahresabschluss-2016.pdf)
-  - [Jahresabschluss 2015](legal/Jahresabschluss-2015.pdf)
-  - [Jahresabschluss 2014](legal/Jahresabschluss-2014.pdf)
-  - [Jahresabschluss 2013](legal/Jahresabschluss-2013.pdf)
-  - [Jahresabschluss 2012](legal/Jahresabschluss-2012.pdf)
-  - [Jahresabschluss 2011](legal/Jahresabschluss-2011.pdf)
-  - [Jahresabschluss 2010](legal/Jahresabschluss-2010.pdf)
-  - [Jahresabschluss 2009](legal/Jahresabschluss-2009.pdf)
+  - [Jahresabschluss 2019](legal/Jahresabschluss-2019.pdf){external}
+  - [Jahresabschluss 2018](legal/Jahresabschluss-2018.pdf){external}
+  - [Jahresabschluss 2017](legal/Jahresabschluss-2017.pdf){external}
+  - [Jahresabschluss 2016](legal/Jahresabschluss-2016.pdf){external}
+  - [Jahresabschluss 2015](legal/Jahresabschluss-2015.pdf){external}
+  - [Jahresabschluss 2014](legal/Jahresabschluss-2014.pdf){external}
+  - [Jahresabschluss 2013](legal/Jahresabschluss-2013.pdf){external}
+  - [Jahresabschluss 2012](legal/Jahresabschluss-2012.pdf){external}
+  - [Jahresabschluss 2011](legal/Jahresabschluss-2011.pdf){external}
+  - [Jahresabschluss 2010](legal/Jahresabschluss-2010.pdf){external}
+  - [Jahresabschluss 2009](legal/Jahresabschluss-2009.pdf){external}
 
 
 **9. Gesellschaftsrechtliche Verbundenheit mit Dritten**
 
-Etudes Sans Frontières – Studieren Ohne Grenzen Deutschland e.V. ist Mitglied im [Verband Deutscher Studierendeninitiativen e.V. (VDSI)](https://www.vdsi.org/). Unsere Projekte führen wir z. T. in Zusammenarbeit mit NGOs vor Ort durch. Weitere Informationen hierzu finden sich auf den entsprechenden [Projektseiten](/our_work).
+Etudes Sans Frontières – Studieren Ohne Grenzen Deutschland e.V. ist Mitglied im [Verband Deutscher Studierendeninitiativen e.V. (VDSI)](https://www.vdsi.org). Unsere Projekte führen wir z. T. in Zusammenarbeit mit NGOs vor Ort durch. Weitere Informationen hierzu finden sich auf den entsprechenden [Projektseiten](/our_work).
 
 **10. Namen von juristischen Personen, deren jährliche Zahlungen mehr als 10 % der Gesamtjahreseinnahmen ausmachen**
 sdfsddf

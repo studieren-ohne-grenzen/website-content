@@ -8,4 +8,4 @@ title: Mitmachen
 
 ## [Von Überall](/get_involved/remotely)
 
-## [Mitglied werden](/get_imvolved/membership)
+## [Mitglied werden](/get_involved/membership)
