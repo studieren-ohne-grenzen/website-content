@@ -4,10 +4,6 @@ title: Sri Lanka
 
 # Sri Lanka
 
-## Die Projektregion
-
-Der von 1983 bis 2009 wütende Bürgerkrieg in Sri Lanka zwischen Regierungstruppen und der tamilischen Bewegung Liberation Tigers of Tamil Eelam (LTTE), forderte zahllose zivile Opfer. Besonders im Nordosten des Landes war das Leben der Bevölkerung von Gewalt und Vertreibung geprägt. 
-
 ## Programmgruppe
 
 **Erreichbarkeit:** srilanka@studieren-ohne-grenzen.org
@@ -16,7 +12,7 @@ Der von 1983 bis 2009 wütende Bürgerkrieg in Sri Lanka zwischen Regierungstrup
 
 **Programmstart:** 2015
 
-**Insgesamt gefördert:** mind. 24 Stipendiat:innen
+**Insgesamt gefördert:** mehr als 24 Stipendiat:innen
 
 **Aktuell gefördert:** 2 Stipendiat (Stand 2024)
 
