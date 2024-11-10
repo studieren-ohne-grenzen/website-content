@@ -14,7 +14,7 @@ Der Beirat nimmt eine beratende und moderierende Rolle ein. Seine Mitglieder tra
 - Beratung zu konkreten Fragestellungen: z.B. zu Organisationsstruktur, Arbeitsprozessen, inhaltlichen Projekten des Vereins
 - Vereinsgeschichte und -zukunft
 
-Der Beirat besteht aus 3 bis 8 Personen und wird jährlich durch die Mitgliederversammlung gewählt. Anfragen können an beirat@studieren-ohne-grenzen.org gestellt werden.
+Der Beirat besteht aus bis zu 8 Personen und wird jährlich durch die Mitgliederversammlung gewählt. Anfragen können an beirat@studieren-ohne-grenzen.org gestellt werden.
 
 ## Revision
 Die Revision überwacht, ob die Vereinsarbeit gemäß der Satzung und den erlassenen Richtlinien stattfindet und prüft den Jahresabschluss, den Geschäftsbericht und die Kontenblätter. Sie besteht aus mindestens zwei Personen und wird auf der Mitgliederversammlung gewählt.
@@ -80,7 +80,7 @@ Julia Hellmig, Vincent Ohnesorge, Rico Mosig, Jaques Matteo Büsche
 
 **2019**
 
-1.Vorsitzender: Paul Münnich; 2.Vorsitzende: Karoline Friedländer; Kassenwart: André Schiedt; Beisitz für die Mitglieder: Gabor Lauchstädt; Beisitz für die Events und das Fundraising: Leonhard Wenzel; Beisitz für die Projekte: Luisa Denter; Beisitz für das Netzwerk und die Kommunikation: Vroni Czotscher; Beisitz für das Design und Marketing: Philipp Becke; Beisitzer für die Internen Abläufe: Stefan Waizenegger
+1.Vorsitzender: Paul Münnich; 2.Vorsitzende: Karoline Friedländer; Kassenwart: André Schiedt; Beisitz für die Mitglieder: Gabor Lauchstädt; Beisitz für die Events und das Fundraising: Leonhard Wenzel; Beisitz für die Projekte: Luisa Denter; Beisitz für das Netzwerk und die Kommunikation: Vroni Czotscher; Beisitz für das Design und Marketing: Philipp Becke; Beisitzer für die Internen Abläufe: Stefan Waizenegger.
 Die ursprüngliche Beisitzende für das Design und Marketing, Jasemi Loukeri, hat das Amt im laufenden Jahr abgegeben.
 
 **2018**
@@ -89,7 +89,7 @@ Die ursprüngliche Beisitzende für das Design und Marketing, Jasemi Loukeri, ha
 
 **2017**
 
-1.Vorsitzender: Ulrik Feuer; 2.Vorsitzende: Merle Vespermann; Kassenwart: Niklas Wank; Beisitzerin für die Mitglieder: Sophia Horsch; Beisitzerin für das Fundraising: Alicia Fert; Beisitzer für die Kommunikation: Dominik Welke; Beisitzerin für die Events und das Design: Monika Berezowski
+1.Vorsitzender: Ulrik Feuer; 2.Vorsitzende: Merle Vespermann; Kassenwart: Niklas Wank; Beisitzerin für die Mitglieder: Sophia Horsch; Beisitzerin für das Fundraising: Alicia Fert; Beisitzer für die Kommunikation: Dominik Welke; Beisitzerin für die Events und das Design: Monika Berezowski.
 Die ursprüngliche 2. Vorsitzende Ruth Ranjan musste das Amt leider im laufenden Jahr abgeben.
 
 **2016**
