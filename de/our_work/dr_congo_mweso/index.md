@@ -19,7 +19,7 @@ title: DR Kongo ‒ Mweso
 
 <br>
 
-In Mweso im Osten der Demokratischen Republik Kongo vergibt Studieren Ohne Grenzen Stipendien an engagierte Studierende der landwirtschaftlichen Hochschule Institut Supérieur d’Études Agronomiques (ISEA). Um die nachhaltige Nutzung des landwirtschaftlichen Potentials der Region zu fördern, geben die Stipendiat:innen und Alumni:ae ihr Wissen durch eigene Projekte an die Bevölkerung weiter und tragen so zur Ernährungssicherung in der Region bei. 
+In Mweso, im Osten der Demokratischen Republik Kongo, vergibt Studieren Ohne Grenzen Stipendien an engagierte Studierende der landwirtschaftlichen Hochschule Institut Supérieur d’Études Agronomiques (ISEA). Um die nachhaltige Nutzung des landwirtschaftlichen Potentials der Region zu fördern, geben die Stipendiat:innen und Alumni:ae ihr Wissen durch eigene Projekte an die Bevölkerung weiter und tragen so zur Ernährungssicherung in der Region bei. 
 
 Das Stipendium umfasst neben der Finanzierung des Studiums am ISEA auch eine ideelle Förderung.
 
@@ -34,7 +34,7 @@ Als Kooperationspartnerin begleitet CADEP die Stipendiat:innen ideell bei der Ko
 ### Stromprojekt
 In Kooperation mit CADEP förderte Studieren ohne Grenzen 2018/19 den Ausbau der Stromversorgung für das ISEA. Konkret förderte es die Anbindung des Instituts an das Stromnetzt von Mweso, welches seit 2018 durch ein neu errichtetes Wasserkraftwerk versorgt wurde. Da das ISEA außerhalb des Orts Mweso liegt, war es bis dahin noch nicht an die Hauptleitung angeschlossen und damit auf Dieselgeneratoren zur Stromerzeugung angewiesen. Studieren Ohne Grenzen stellte die finanziellen Mittel zum Anschluss an die Hauptleitung sowie zur Installation grundlegender elektrischer Einrichtungen (z.B. Steckdosen, Verteiler, Beleuchtung) zur Verfügung. Damit wurde ein entscheidender Grundstein für die Verbesserung der technischen Ausstattung am ISEA, wie z.B. einen Computerraum und eine Internetanbindung, gelegt. 
 
-Aufgrund der klimatischen Bedingungen in der Region nahmen die Masten der, nicht von Studieren Ohne Grenzen finanzierten, Hauptleitung zwischen dem Kraftwerk und dem Dorf schaden, wodurch keine reliable Stromversorgung mehr gewährleistet werden kann. Um den Studierenden des Instituts den Zugang zu Strom und Internet wieder zu ermöglichen, beschloss Studieren Ohne Grenzen die 2023 die Wiederaufnahme des Programms und Finanzierung des Aufbaus von Strommasten zwischen dem Kraftwerk und dem Dorf. Diese Finanzierung soll größtenteils durch spezifisch eingeworbene projektgebundene Spenden geschehen.
+Aufgrund der klimatischen Bedingungen in der Region nahmen die Masten der, nicht von Studieren Ohne Grenzen finanzierten, Hauptleitung zwischen dem Kraftwerk und dem Dorf schaden, wodurch keine reliable Stromversorgung mehr gewährleistet werden kann. Um den Studierenden des Instituts den Zugang zu Strom und Internet wieder zu ermöglichen, beschloss Studieren Ohne Grenzen die 2023 die Wiederaufnahme des Programms und Finanzierung des Aufbaus von Strommasten zwischen dem Kraftwerk und dem Dorf. Ermöglicht durch die Großspende einer Stiftung und eigenen Projektaufwendungen des Vereins konnten im Herbst 2024 die Strommasten im Mweso durch eine lokale Baufirma aufgebaut und in Betrieb genommen werden. 
 
 ## Ausgelaufene Infrastrukturprojekte
 
