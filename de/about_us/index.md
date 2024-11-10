@@ -59,9 +59,13 @@ Hallo ihr lieben SOGler*innen, Meine Name ist Tim, ich werde dieses Jahr 25 und 
 
 **2. Vorsitzender: Daniel Lerch**
 
+![Porträt von Daniel Lerch](/board/Daniel_Lerch.jpg)
+
 Hallo, ich bin Daniel, 22 Jahre alt und studiere Wirtschaftsinformatik an der TU Darmstadt. Ich habe SOG über das Infinity Centre in Sri Lanka kennengelernt, wo ich mein FSJ gemacht habe. Mitglied bin ich aber erst seit Januar 2023 und seitdem in der AG Sri Lanka für die Kommunikation mit dem Infinity Centre zuständig. Für den Vorstand habe ich mich eigentlich nicht qualifiziert gefühlt, aber da sich viel zu wenige Kandidaten aufstellen lassen haben, habe ich mich gemeldet. Ich finde die Arbeit von SOG unglaublich wichtig. In Sri Lanka habe ich mit vielen jungen Menschen gesprochen und gesehen, wie verbreitet dort berufliche Perspektivlosigkeit ist. Mit meinem Engagement bei SOG möchte ich daran etwas ändern.
 
 **Kassenwartin: Youn Yu**
+
+![Porträt von Youn Yu](/board/Youn_Yu.jpg)
 
 Hallo, ich bin Youn, 25 Jahre alt und studiere im Master Finanzen in Frankfurt. Seit 2019 engagiere ich mich bei SOG und seit zwei Jahren bin ich als Lokalkoordinatorin in Frankfurt tätig. Die Teilnahme an verschiedenen bundesweiten Events wie dem BKT und dem Strategiewochenende hat mein Interesse geweckt, näher am Kern des Vereins zu arbeiten. Daher freue ich mich auf die Möglichkeit, meinen Background und Wissen in Finanzen für SOG einzusetzen. Als Kassenwartin werde ich die finanziellen Angelegenheiten des Vereins gewissenhaft verwalten und sicherstellen, dass unsere Ressourcen effektiv genutzt werden, um unsere Ziele zu erreichen. Neue Herausforderungen und Erfahrungen? Ich kann es kaum erwarten! Und natürlich freue ich mich auf die Zusammenarbeit mit euch allen
 
@@ -69,17 +73,25 @@ Hallo, ich bin Youn, 25 Jahre alt und studiere im Master Finanzen in Frankfurt. 
 
 **Katharina Batzing**
 
+![Porträt von Katharina Batzing](/board/Katharina_Batzing.jpg)
+
 Ich bin Katharina, werde bei SOG meist Batzi genannt. Als ich 2020 angefangen habe, in Jena Politikwissenschaft und Psychologie (im Nebenfach) zu studieren, bin ich zum Glück zur LG Jena gekommen. Ich bin schon sehr auf die kommenden SOG-Events gespannt und freue mich auf die kommende Zeit im Vorstands-Team! Wenn ich gerade nichts für SOG oder die Uni mache, spiele ich Hockey, bin im Triathlon-Verein oder beschalle ab und zu meine Nachbar:innen mit der Trompete :D
 
 **Hendrikje Rost**
+
+![Porträt von Hendrikje Rost](/board/Hendrikje_Rost.jpg)
 
 Hallo zusammen, ich bin Hendrikje, 25 Jahre alt und arbeite als Psychotherapeutin in Offenburg. Nachdem ich eine Weile in der Projektarbeit der Westbank- und Afghanistan-Gruppe war, bin ich seit 2022 im Vorstand. In dieser Zeit hat sich viel verändert. Ich freue mich ein weiteres Jahr die Veränderungen bei SOG begleiten zu können und mich an Projekten, die mir am Herzen liegen, zu beteiligen.
 
 **Daniel Schreiber**
 
+![Porträt von Daniel Schreiber](/board/Daniel_Schreiber.png)
+
 Hi, ich bin auch Daniel, 20 Jahre alt und studiere an der TU Berlin Naturwissenschaften in der Informationsgesellschaft. Ich bin seit Mitte 2023 bei SOG. Angefangen habe ich im Resort IT und bin dann in den Vorstand 2024 als Beisitz für Mitglieder gewählt worden. Ich freue mich darauf den Verein im kommenden Jahr hier zu begleiten und unterstützen und die Welt so ein klein wenig besser zu machen. Ich bin Ansprechpartner für alle Mitglieder im Verein.
 
 **Simon Weber**
+
+![Porträt von Simon Weber](/board/Simon_Weber.jpeg)
 
 Ich bin Simon und studiere Regenerative Energiesysteme an der TU in Dresden. 2022 war ich Lokalkoordination in Dresden. 2023 dann Beisitz für Lokalkoordination und jetzt freue ich mich dieses Jahr mein Amt fortsetzen zu können.  Wenn ich nicht gerade an Uni oder SOG-Arbeiten sitze, höre ich gerne und viel Musik und freue mich über Berge und deren Wege hinauf.
 
