@@ -20,7 +20,7 @@ Das IT-Ressort betreut die IT-Systeme von SOG (und einigen assoziierten Vereinen
 
 Studieren Ohne Grenzen verfügt über eine gut ausgebaute und integrierte IT-Infrastruktur. Diese muss jedoch gewartet werden und im Laufe der Jahre verändern sich auch die Anforderungen an die Systeme. Außerdem benötigen die weniger IT-affinen Mitglieder:innen des Vereins manchmal Hilfe. Neben einem Mitarbeiter auf Minijob-Basis, braucht es aber auch ehrenamtliche Mitglieder, die das IT-Ressort unterstützen.
 
-Treffen: online, in unregelmäßigen Abständen
+Treffen: online, in unregelmäßigen Abständen.
 
 Du hast ziemlich viel auf dem Computerkasten und Interesse oder kennst jemanden der oder die es hat? Dann schreib uns eine E-Mail an it@studieren-ohne-grenzen.org.
 
@@ -32,4 +32,4 @@ Jeder der Interesse an rechtlichen Angelegenheiten hat, kann sich im Rechts-Reso
 
 Treffen: online, nur auf Anfrage.
 
-Bei Fragen oder Interesse melde dich am besten bei recht@studieren-ohne-grenzen.org
+Bei Fragen oder Interesse melde dich am besten bei recht@studieren-ohne-grenzen.org.
