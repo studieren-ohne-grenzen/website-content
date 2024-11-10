@@ -35,7 +35,7 @@ Unser Ansatz unterliegt einer ständigen Überprüfung und wird bei Bedarf angep
 ## Vorstand und Beirat 2024
 
 **Vorstand 2024:** 
-1. Vorsitzender: Tim Heucke; 2. Vorsitzender: Daniel Lerch; Kassenwärtin: Youn Yu;
+1.Vorsitzender: Tim Heucke; 2.Vorsitzender: Daniel Lerch; Kassenwärtin: Youn Yu;
     picture: static/vorstand/Tim_Heucke.jpeg   picture: static/vorstand/Daniel_Lerch.jpeg
 
 Beisitze: Katharina Batzing, Hendrikje Rost, Daniel Schreiber, Simon Weber
