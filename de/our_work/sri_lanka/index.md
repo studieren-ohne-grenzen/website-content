@@ -6,7 +6,7 @@ title: Sri Lanka
 
 ## Programmgruppe
 
-**Programmgruppentreffen:**Online, in unregelmäßigen Abständen (dringend neue Mitglieder gesucht! Gerne die Projektgruppe via untenstehender Email-Adresse kontaktieren).
+**Programmgruppentreffen:** Online, in unregelmäßigen Abständen (dringend neue Mitglieder gesucht! Gerne die Projektgruppe via untenstehender Email-Adresse kontaktieren).
 **Erreichbarkeit:** srilanka@studieren-ohne-grenzen.org
 
 ## Das Stiendienprogramm - Infinity Center 
