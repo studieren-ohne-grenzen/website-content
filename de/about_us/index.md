@@ -50,9 +50,10 @@ Die Revision überwacht, ob die Vereinsarbeit gemäß der Satzung und den erlass
 
 <br>
 
-
 ## Aktueller Vorstand
 **1. Vorsitzender: Tim Heucke**
+
+![Porträt von Tim Heucke](/board/Tim_Heucke.jpeg)
 
 Hallo ihr lieben SOGler*innen, Meine Name ist Tim, ich werde dieses Jahr 25 und komme aus dem wunderschönen Berlin. Ich habe im April 2022 bei SOG-Berlin angefangen und bin dann relativ schnell mit in die Projektkoordination gerutscht. Letztes Jahr bin ich spontan in den Vorstand und habe die Programme betreut. Ich hatte ein sehr schönes Vorstandsjahr und habe viel Neues dazulernen können und freue mich nun als 1. Vorsitz den Vorstand und Verein weiter begleiten zu dürfen, weiterzuführen und zu verbessern. Ich finde wir als SOG machen sehr wichtige Arbeit und es ist schön sich ehrenamtlich & sinnstiftend zu engagieren!
 
