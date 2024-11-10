@@ -6,7 +6,7 @@ title: Burundi
 
 ## Programmgruppe
 
-**Programmgruppentreffen:** Online unregelmäßig (bezüglich dem nächsten Termin bitte die Programmgruppe kontaktieren)
+**Programmgruppentreffen:** Online, in unregelmäßigen Abständen (bezüglich dem nächsten Termin bitte die Programmgruppe kontaktieren).
 
 **Erreichbarkeit:** burundi@studieren-ohne-grenzen.org
 
@@ -14,7 +14,7 @@ title: Burundi
 
 **Programmstart:** 2018
 
-**Aktuell gefördert:** 2 Stipendiat (Stand 2024)
+**Aktuell gefördert:** 2 Stipendiat:innen (Stand 2024)
 
 **Insgesamt gefördert:** 6 Stipendiat:innen
 
