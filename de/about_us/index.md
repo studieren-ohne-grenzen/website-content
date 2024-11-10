@@ -42,4 +42,4 @@ Beisitze: Katharina Batzing, Hendrikje Rost, Daniel Schreiber, Simon Weber
 
 **Beirat 2024:** Kira Eckart, Marie Konz, Feras Mulhem, Anoja Thanabalasingam, Stefan Waizenegger
 
-**Mehr Informationen** zu den aktuellen Vorstandsmitgliedern, den Aufgaben des Vorstands und des Beirats und ehemaligen Vorstands- und Beiratsmitgliedern [hier](about_us/board)
+**Mehr Informationen** zu den aktuellen Vorstandsmitgliedern, den Aufgaben des Vorstands und des Beirats und ehemaligen Vorstands- und Beiratsmitgliedern [hier](about_us/board).
