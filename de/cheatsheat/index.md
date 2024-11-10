@@ -1,13 +1,11 @@
 ---
-title: null
-description: Studieren Ohne Grenzen setzt sich für Hochschulbildung in Regionen des Globalen Südens ein. Wir vergeben Stipendien an junge Menschen, tragen zur Verbesserung der Bildungsinfrastruktur bei und möchten in der Öffentlichkeit ein Bewusstsein für die Situation in den Projektregionen schaffen.
+title: Cheatsheat
+description: SOG Markdown Cheatsheat
 ---
 
-# Studieren Ohne Grenzen
+# SOG Markdown Cheatsheat
 
-Studieren Ohne Grenzen fördert junge Menschen aus Regionen des Globalen Südens, deren öffentliche Infrastruktur unter Krisen und teils gewalttätigen Konflikten gelitten hat und aus diesem Grund nicht für alle Menschen zugänglich ist. Diese jungen Menschen möchten mit eigenen Projekten zum nachhaltigen Wiederaufbau ihres Landes beitragen und die Zukunft nach ihren Vorstellungen gestalten. Durch die Vergabe von Stipendien sowie der Förderung lokaler Bildungsinstitutionen ermöglicht der Verein Menschen aus diesen Regionen einen Zugang zu Hochschulbildung.
-
-Mit unserer ehrenamtlichen Arbeit möchten wir junge Menschen dabei unterstützen zum Wiederaufbau ihrer Heimatländer beizutragen. Zusammen mit den Stipendiaten und Stipendiatinnen haben wir das Ziel einen Beitrag zur friedlichen und nachhaltigen Entwicklung der Länder und Regionen leisten, die unter Krieg und dessen Folgen leiden.
+Diese Seite dient als Referenz, wie man Inhalte der SOG Website bearbeiten kann.
 
 # Überschrift 1
 ## Überschrift 2
