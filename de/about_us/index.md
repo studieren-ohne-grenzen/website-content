@@ -88,12 +88,3 @@ Feras Mulhem, Anoja Thanabalasingam, Marie Konz, Stefan Waizenegger, Kira Eckart
 ## Aktuelle Revision
 Julia Hellmig, Vincent Ohnesorge, Rico Mosig, Jaques Matteo Büsche
 
-**Vorstand 2024:** 
-1.Vorsitzender: Tim Heucke; 2.Vorsitzender: Daniel Lerch; Kassenwärtin: Youn Yu;
-    ![Porträt von Tim Heucke](static/vorstand/Tim_Heucke.jpeg)   <img src="/vorstand/Daniel_Lerch.jpeg" alt="Porträt von Daniel Lerch">
-
-Beisitze: Katharina Batzing, Hendrikje Rost, Daniel Schreiber, Simon Weber
-
-**Beirat 2024:** Kira Eckart, Marie Konz, Feras Mulhem, Anoja Thanabalasingam, Stefan Waizenegger
-
-**Mehr Informationen** zu den aktuellen Vorstandsmitgliedern, den Aufgaben des Vorstands und des Beirats und ehemaligen Vorstands- und Beiratsmitgliedern [hier](about_us/board).
