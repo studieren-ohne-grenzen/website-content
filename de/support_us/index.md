@@ -61,4 +61,4 @@ Der Verein richtet sich einerseits insbesondere an ehemalige Mitglieder, die aus
 
 Der Förderverein unterstützt Studieren Ohne Grenzen sowohl finanziell als auch ideell, z.B. in beratender Funktion und durch das Anbieten von Infoabenden oder Workshops. Alle Spenden und Fördermittel des Fördervereins werden an Studieren Ohne Grenzen weitergeleitet. 
 
-Mehr Informationen findest du hier oder schreib ihnen einfach unter info@fv.studieren-ohne-grenzen.org.
+Mehr Informationen findest du hier oder schreib dem Förderverein unter info@fv.studieren-ohne-grenzen.org.
