@@ -39,19 +39,15 @@ VR 380848 (Amtsgericht Freiburg im Breisgau)
 DE287535550
 
 ## Vertretungsberechtigter Vorstand
-1.Vorsitzende: Tim Heucke
+1.Vorsitzende: Daniel Lerch
 
-2.Vorsitzender: Daniel Lerch
+2.Vorsitzender: Rico Mosig
 
-Kassenwartin: Youn Yu
+Kassenwartin: Filip Mirkanovic
 
-1.Beisitzende: Hendrikje Rost
+1.Beisitzende: Daniel Schreiber
 
-2.Beisitzende: Katharina Batzing
-
-3.Beisitzender: Simon Weber
-
-4.Beisitzender: Daniel Schreiber
+2.Beisitzende: Triantafillia Pepe
 
 ## Urheber- und Nutzungsrechte
 
