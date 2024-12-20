@@ -28,7 +28,7 @@ places:
       north: -2.95
       east: 25.916667
     text_flow: left
-    active: true
+    active: false
   - name: Guatemala
     picture: ""
     text: In der Hauptstadt von Guatemala vergeben wir seit 2018 Stipendien für die Universidad de San Carlos de Guatemala. Wir möchten sozial engagierten Jugendlichen ein Studium ermöglichen, die sich mit eigenen Projekten für die Rechte der indigenen Bevölkerung einsetzen.
@@ -36,7 +36,7 @@ places:
       north: 14.631667
       east: -90.523611
     text_flow: left
-    active: true
+    active: false
   - name: Sri Lanka - Infinity Center & Action Forum 
     picture: ""
     text: "Infinity Center: Im Norden Sri Lankas fördert Studieren Ohne Grenzen finanziell bedürftigen jungen Erwachsenen die Teilhabe an Computerkursen und Accounting Kursen. Action Forum: Im Osten des Landes förderte Studieren Ohne Grenzen Studierende verschiedenster Fachbereiche. Das Programm lief aufgrund fehlender Projektpartnerschaft vor Ort 2023 aus."
