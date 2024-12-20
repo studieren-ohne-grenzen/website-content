@@ -6,8 +6,6 @@ items:
         url: our_work/burundi
       - name: DR Kongo - Mweso
         url: our_work/dr_congo_mweso
-      - name: Guatemala
-        url: our_work/guatemala
       - name: Sri Lanka
         url: our_work/sri_lanka
       - name: Westbank
@@ -16,6 +14,8 @@ items:
         url: our_work/afghanistan
       - name: DR Kongo - Kindu (ausgelaufen)
         url: our_work/dr_congo_kindu
+      - name: Guatemala (ausgelaufen)
+        url: our_work/guatemala
       - name: Tschetschenien (ausgelaufen)
         url: our_work/chechnya
   - name: Über Uns
@@ -39,6 +39,8 @@ items:
             hash: dresden
           - name: Frankfurt a.M.
             hash: frankfurt
+          - name: Konstanz
+            hash: konstanz
       - name: Von Überall
         url: get_involved/remotely
         children: 
