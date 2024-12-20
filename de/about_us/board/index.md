@@ -22,45 +22,43 @@ Die Revision überwacht, ob die Vereinsarbeit gemäß der Satzung und den erlass
 <br>
  
 ## Aktueller Vorstand
-**1. Vorsitzender: Tim Heucke**
+**1. Vorsitzender: Daniel Lerch**
 
-Hallo ihr lieben SOGler*innen, Meine Name ist Tim, ich werde dieses Jahr 25 und komme aus dem wunderschönen Berlin. Ich habe im April 2022 bei SOG-Berlin angefangen und bin dann relativ schnell mit in die Projektkoordination gerutscht. Letztes Jahr bin ich spontan in den Vorstand und habe die Programme betreut. Ich hatte ein sehr schönes Vorstandsjahr und habe viel Neues dazulernen können und freue mich nun als 1. Vorsitz den Vorstand und Verein weiter begleiten zu dürfen, weiterzuführen und zu verbessern. Ich finde wir als SOG machen sehr wichtige Arbeit und es ist schön sich ehrenamtlich & sinnstiftend zu engagieren!
+Hallo, ich bin Daniel, 23 Jahre alt und studiere Wirtschaftsinformatik an der TU Darmstadt. Ich habe SOG über das Infinity Centre in Sri Lanka kennengelernt, wo ich 2019 mein FSJ gemacht habe. Seit Januar 2023 bin ich bei SOG aktiv und in der Sri Lanka AG tätig. Dieses Jahr bin ich zusätzlich als 2. Vorsitzender im Vorstand und habe mich außerdem viel um die Weiterentwicklung der neuen Webseite gekümmert, die hoffentlich bald die alte ersetzen wird. Ich freue mich sehr darauf, den Verein nächstes Jahr als 1. Vorsitzender weiter mitgestalten zu können und Grundlagen für Wachstum zu legen. Mein Traum ist es, dass eines Tages alle Menschen in ihrem Herkunftsland eine berufliche Perspektive haben werden und ich bin mir sicher, dass SOG durch die Förderung von Bildung einen Beitrag dazu leisten kann.
 
-**2. Vorsitzender: Daniel Lerch**
+**2. Vorsitzender: Rico Mosig**
 
-Hallo, ich bin Daniel, 22 Jahre alt und studiere Wirtschaftsinformatik an der TU Darmstadt. Ich habe SOG über das Infinity Centre in Sri Lanka kennengelernt, wo ich mein FSJ gemacht habe. Mitglied bin ich aber erst seit Januar 2023 und seitdem in der AG Sri Lanka für die Kommunikation mit dem Infinity Centre zuständig. Für den Vorstand habe ich mich eigentlich nicht qualifiziert gefühlt, aber da sich viel zu wenige Kandidaten aufstellen lassen haben, habe ich mich gemeldet. Ich finde die Arbeit von SOG unglaublich wichtig. In Sri Lanka habe ich mit vielen jungen Menschen gesprochen und gesehen, wie verbreitet dort berufliche Perspektivlosigkeit ist. Mit meinem Engagement bei SOG möchte ich daran etwas ändern.
+Ich bin Rico und komme aus Leipzig. Aktuell studiere ich Politik-/Verwaltungswissenschaft an der Uni Konstanz (bzw. ab Januar im Austauschsemester an der Uni Sussex).
+Ich bin im April 2023 über die Projektarbeit in der Westbank bei SOG eingestiegen, war dann 2024 in der Revision aktiv und habe mit weiteren Mitstreitern ein neues Burundi-Projekt gestartet. Im Vorstand möchte ich nun gerne v.a. im Fundraising und der Strategieplanung mithelfen, den Verein weiterzuentwickeln. Mich motiviert, dass wir durch unsere Projekte anderen jungen Menschen eine bessere Bildung und damit hoffentlich die Chance auf ein besseres Leben ermöglichen und dass ich selbst dabei gleichzeitig viel dazulernen kann.
 
-**Kassenwartin: Youn Yu**
+**Kassenwartin: Filip Mirkanovic**
 
-Hallo, ich bin Youn, 25 Jahre alt und studiere im Master Finanzen in Frankfurt. Seit 2019 engagiere ich mich bei SOG und seit zwei Jahren bin ich als Lokalkoordinatorin in Frankfurt tätig. Die Teilnahme an verschiedenen bundesweiten Events wie dem BKT und dem Strategiewochenende hat mein Interesse geweckt, näher am Kern des Vereins zu arbeiten. Daher freue ich mich auf die Möglichkeit, meinen Background und Wissen in Finanzen für SOG einzusetzen. Als Kassenwartin werde ich die finanziellen Angelegenheiten des Vereins gewissenhaft verwalten und sicherstellen, dass unsere Ressourcen effektiv genutzt werden, um unsere Ziele zu erreichen. Neue Herausforderungen und Erfahrungen? Ich kann es kaum erwarten! Und natürlich freue ich mich auf die Zusammenarbeit mit euch allen
+Mein Name ist Filip Mirkanovic, 26 Jahre alt, und ich freue mich, als Bundeskassenwart bei Studieren ohne Grenzen tätig zu sein. Derzeit befinde ich mich im Master of Finance an der Frankfurt School of Finance & Management, wo ich auf meinen fundierten Kenntnissen im Bereich Finanz- und Rechnungswesen aufbaue. Mit meiner strukturierten und präzisen Arbeitsweise werde ich die finanzielle Verwaltung des Vereins unterstützen und durch meine Expertise einen Beitrag zur Förderung von weltweiten Bildungsprojekten leisten.
 
 **Beisitze:**
 
-**Katharina Batzing**
-
-Ich bin Katharina, werde bei SOG meist Batzi genannt. Als ich 2020 angefangen habe, in Jena Politikwissenschaft und Psychologie (im Nebenfach) zu studieren, bin ich zum Glück zur LG Jena gekommen. Ich bin schon sehr auf die kommenden SOG-Events gespannt und freue mich auf die kommende Zeit im Vorstands-Team! Wenn ich gerade nichts für SOG oder die Uni mache, spiele ich Hockey, bin im Triathlon-Verein oder beschalle ab und zu meine Nachbar:innen mit der Trompete :D
-
-**Hendrikje Rost**
-
-Hallo zusammen, ich bin Hendrikje, 25 Jahre alt und arbeite als Psychotherapeutin in Offenburg. Nachdem ich eine Weile in der Projektarbeit der Westbank- und Afghanistan-Gruppe war, bin ich seit 2022 im Vorstand. In dieser Zeit hat sich viel verändert. Ich freue mich ein weiteres Jahr die Veränderungen bei SOG begleiten zu können und mich an Projekten, die mir am Herzen liegen, zu beteiligen.
-
 **Daniel Schreiber**
 
-Hi, ich bin auch Daniel, 20 Jahre alt und studiere an der TU Berlin Naturwissenschaften in der Informationsgesellschaft. Ich bin seit Mitte 2023 bei SOG. Angefangen habe ich im Resort IT und bin dann in den Vorstand 2024 als Beisitz für Mitglieder gewählt worden. Ich freue mich darauf den Verein im kommenden Jahr hier zu begleiten und unterstützen und die Welt so ein klein wenig besser zu machen. Ich bin Ansprechpartner für alle Mitglieder im Verein.
+Hi, ich bin auch Daniel, 21 Jahre alt und studiere an der TU Berlin Naturwissenschaften in der Informationsgesellschaft. Ich bin seit Mitte 2023 bei SOG. Angefangen habe ich im Resort IT und bin dann in den Vorstand 2024 als Beisitz für Mitglieder gewählt worden. Ich freue mich darauf den Verein im kommenden Jahr hier zu begleiten und unterstützen und die Welt so ein klein wenig besser zu machen. Ich bin Ansprechpartner für alle Mitglieder im Verein.
 
-**Simon Weber**
+**Triantafillia Pepe**
 
-Ich bin Simon und studiere Regenerative Energiesysteme an der TU in Dresden. 2022 war ich Lokalkoordination in Dresden. 2023 dann Beisitz für Lokalkoordination und jetzt freue ich mich dieses Jahr mein Amt fortsetzen zu können.  Wenn ich nicht gerade an Uni oder SOG-Arbeiten sitze höre ich gerne und viel Musik und freue mich über Berge und deren Wege hinauf.
+Hi, mein Name ist Triantafillia, ich werde aber oft Filia oder Filitsa genannt, bin 22 Jahre alt und studiere im Master Sustainability Science, Policy and Society in Maastricht. Davor habe im meinen Bachelor in Frankfurt gemacht, wodurch ich 2022 auch auf die Lokalgruppe Frankfurt gestoßen bin.
+Seit März 2024 bin ich zudem als Projektkoordinatorin für das Westbank Projekt tätig, welches mir sehr am Herzen liegt. 
+Nun freue ich mich im kommenden Jahr den Verein bei der Programmbetreuung unterstützen zu können um die bestehenden Projekte zu fördern und neue Projekte entstehen zu lassen.
 
 ## Aktueller Beirat
-Feras Mulhem, Anoja Thanabalasingam, Marie Konz, Stefan Waizenegger, Kira Eckart
+Tim Heucke, Katharina Batzing, Hendrikje Rost, Simon Weber
 
 ## Aktuelle Revision
-Julia Hellmig, Vincent Ohnesorge, Rico Mosig, Jaques Matteo Büsche
+Emil Hofmann, Julia Hellmig
 
 <br>
 
 ## Vorherige Vorstände
+
+**2024**
+1.Vorsitzender: Tim Heucke; 2.Vorsitzender: Daniel Lerch; Kassenwartin: Youn Yu; Beisitz für Mitglieder: Daniel Schreiber; Beisitz für Events und Fundraising: Katharina Batzing; Beisitz: Hendrikje Rost; Beisitz für Lokalgruppen: Simon Weber
 
 **2023** 
 
