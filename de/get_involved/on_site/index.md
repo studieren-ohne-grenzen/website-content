@@ -8,7 +8,7 @@ Wenn du mehr über die einzelnen Lokalgruppen erfahren willst, klicke einfach da
 
 <sog-map map-type="germany" places-config="get_involved/map_germany"></sog-map>
 
-Die Lokalgruppen kannst du per Mail unter stadt@studieren-ohne-grenzen.org erreichen (z.B. frankfurt@studieren-ohne-grenzen.org)
+Die aktiven Lokalgruppen kannst du per Mail unter [stadt]@studieren-ohne-grenzen.org erreichen (z.B. frankfurt@studieren-ohne-grenzen.org)
 
 <br>
 <br>
