@@ -10,6 +10,10 @@ title: Burundi
 
 **Erreichbarkeit:** burundi@studieren-ohne-grenzen.org
 
+## Aktuelles aus dem Programm:
+Aktuell unterstützen wir zwei Stipendiatinnen. Wir haben sie bereits während Ihres Bachelor-Studiums begleitet und ermöglichen ihnen seit 2024, sich in einem Master-Studium weiterzuqualifizieren.
+Von Oktober 2024 bis Januar 2025 führen wir das Auswahlverfahren für ein neues Stipendienprojekt durch. Ab 2025 wollen wir das Programm deutlich erweitern und 8 neuen Stipendiat:innen ein Bachelor-Studium in unterschiedlichen Studienfeldern ermöglichen.
+
 ## Die Programmregion:
 Das burundische Bildungssystem wurde durch historische Konflikte und politische Instabilität, die u.a. im Bürgerkrieg (1993–2005) und der internationalen Isolation des Landes (2015–2020) Ausdruck fanden, vernachlässigt und stark geschwächt. Hinzu kommt die schwierige ökonomische Situation - Burundi zählt zu den ärmsten Ländern weltweit.
 Einer der gravierendsten Missstände im burundischen Bildungssystem ist der unzureichende und ungleiche Zugang zu Bildung. Dies betrifft alle Bildungsstufen – von der Primar- über die Sekundarschule bis hin zur Hochschulbildung. Mit steigender Bildungsstufe nimmt der Anteil des Zugangs junger Menschen rapide ab. Weniger als 6 % eines Jahrgangs beginnen ein Studium, lediglich 4,18 % schließen dieses ab. Zudem sind Frauen in der Hochschulbildung unterrepräsentiert (unter 40 %). Die Förderung von Bildung in Burundi sehen wir für die Verbesserung der Lebenschancen junger Menschen und die Entwicklung des Landes als entscheidend an.
@@ -32,7 +36,3 @@ Auf diese Weise leisten unsere Stipendiat:innen als Multiplikatoren einen eigene
 
 ## Mitarbeitende vor Ort:
 Wir setzen unsere Projekte gemeinsam mit unserer burundischen Mitarbeiterin in Bujumbura um. Sie versorgt uns u.a. mit allen nötigen lokalen Informationen, organisiert die Ausschreibungen für neue Stipendienplätze und kümmert sich bei Problemen und Fragen um unsere Stipendiat:innen. Ihre Einschätzung ist in jeder Situation besonders wichtig für uns, da sie uns weite Einblicke in die Situation vor Ort geben kann.
-
-## Aktuelles aus dem Programm:
-Aktuell unterstützen wir zwei Stipendiatinnen. Wir haben sie bereits während Ihres Bachelor-Studiums begleitet und ermöglichen ihnen momentan, sich in einem Master-Studium weiterzuqualifizieren.
-Von Oktober 2024 bis Januar 2025 führen wir das Auswahlverfahren für ein neues Stipendienprojekt durch. Ab 2025 wollen wir das Programm deutlich erweitern und 8 neuen Stipendiat:innen ein Bachelor-Studium in unterschiedlichen Studienfeldern ermöglichen.
