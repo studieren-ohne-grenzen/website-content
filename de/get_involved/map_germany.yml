@@ -118,8 +118,9 @@ places:
     active: false
   - name: Konstanz
     picture: ''
-    text: Wir als Lokalgruppe Konstanz betreuen gemeinsam mit Mitgliedern aus Bonn und Göttingen das Burundi-Projekt. <br>
-    Wenn du Lust hast, bei uns mitzumachen, schreib einfach an <a href="mailto:rico.mosig@studieren-ohne-grenzen.org"/a>. Es gibt viele Möglichkeiten, sich einzubringen - bei der regelmäßigen Projektarbeit in der PG Burundi, aber auch punktuell bei Öffentlichkeitsarbeit, Fundraising und Organisation von Events in Konstanz und Umgebung.
+    text: |-
+      Wir als Lokalgruppe Konstanz betreuen gemeinsam mit Mitgliedern aus Bonn und Göttingen das Burundi-Projekt. <br>
+      Wenn du Lust hast, bei uns mitzumachen, schreib einfach an <a href="mailto:rico.mosig@studieren-ohne-grenzen.org"/a>. Es gibt viele Möglichkeiten, sich einzubringen - bei der regelmäßigen Projektarbeit in der PG Burundi, aber auch punktuell bei Öffentlichkeitsarbeit, Fundraising und Organisation von Events in Konstanz und Umgebung.
     social:
       - type: mail
         handle: konstanz
@@ -137,8 +138,9 @@ places:
     active: false
   - name: Leipzig
     picture: ''
-    text: Hallo Leipzig, die Lokalgruppe Leipzig ist aktuell leider inaktiv. <br>
-    Wenn du die Gruppe allein oder mit Freunden wieder starten willst und/oder Fragen dazu hast, schreib gerne an <a href="mailto:rico.mosig@studieren-ohne-grenzen.org"/a>.
+    text: |-
+      Hallo Leipzig, die Lokalgruppe Leipzig ist aktuell leider inaktiv. <br>
+      Wenn du die Gruppe allein oder mit Freunden wieder starten willst und/oder Fragen dazu hast, schreib gerne an <a href="mailto:rico.mosig@studieren-ohne-grenzen.org"/a>.
     social: []
     coordinates:
       north: 51.340333
