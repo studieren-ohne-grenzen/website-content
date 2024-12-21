@@ -29,4 +29,4 @@ Wir setzen unsere Projekte gemeinsam mit unserer burundischen Mitarbeiterin in B
 
 ## Aktuelles aus dem Programm:
 Aktuell unterstützen wir zwei Stipendiatinnen. Wir haben sie bereits während Ihres Bachelor-Studiums begleitet und ermöglichen ihnen momentan, sich in einem Master-Studium weiterzuqualifizieren.
-Von Oktober 2024 bis Januar 2025 führen das Auswahlverfahren für ein neues Stipendienprojekt durch. Ab 2025 wollen wir 8 neuen Stipendiat:innen ein Bachelor-Studium in unterschiedlichen Studienfeldern ermöglichen.
+Von Oktober 2024 bis Januar 2025 führen wir das Auswahlverfahren für ein neues Stipendienprojekt durch. Ab 2025 wollen wir 8 neuen Stipendiat:innen ein Bachelor-Studium in unterschiedlichen Studienfeldern ermöglichen.
