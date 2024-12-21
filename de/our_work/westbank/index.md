@@ -12,6 +12,9 @@ title: Westbank
 
 **Wir Suchen dich** sieh am Ende der Seite, in welchen Bereichen du uns unterstützen kannst.
 
+## Aktuelles aus dem Programm:
+Im Dezember 2024 haben wir ein neues Stipendienprojekt gestartet und 9 neue Stipendiat:innen in unser Programm aufgenommen. Wir unterstützen sie während ihres Studiums in unterschiedlichen Studienfeldern.
+
 ### Arbeit der Programmgruppe
 Wir stehen den Stipendiat:innen nicht nur organisatorisch zur Seite, sondern befinden uns in regelmäßigem Austausch mit ihnen und sind so auch Ansprechpartner für persönliche Themen. Als Programmgruppe legen wir zudem Wert auf Öffentlichkeitsarbeit, indem wir einen nahbaren Zugang zu den Lebensrealitäten unserer Stipendiat:innen ermöglichen. 
 
@@ -40,9 +43,6 @@ Vor Ort wird das Programm durch CDCE-I unterstützt, z.B. in der Ausschreibung d
 
 CDCE-I ist eine 2010 in Bethlehem gegründete, gemeinnützige Nichtregierungsorganisation. 
 Das Ziel des CDCE-I ist neben der Förderung vom Pluralismus und Menschenrechten die verstärkte Partizipation vor allem junger Menschen an der Gestaltung der sozialen und ökonomischen Strukturen der Westbank durch eine Integration im Arbeitsmarkt. Dabei hat sich das CDCE-I dem Ziel der nachhaltigen Entwicklung der Region verschrieben und fördert verschiedene Projekte mit Schwerpunkten etwa bei der Karriereplanung, von der auch die Absolvent:innen unseres Programms profitieren können, oder „legal awareness“, welches durch Vermittlung von juristischem Basiswissen den Menschen eine stärke Durchsetzung ihrer Rechte ermöglichen soll. Zudem beteiligt sich das CDCE-I an verschiedenen Initiativen, etwa im Bereich von sicheren Transportwegen für Studierende oder zur Verschönerung von Schulen unter Mithilfe der Schüler:innen.
-
-## Aktuelles aus dem Programm:
-Im Dezember 2024 haben wir ein neues Stipendienprojekt gestartet und 9 neue Stipendiat:innen in unser Programm aufgenommen. Wir unterstützen sie während ihres Studiums in unterschiedlichen Studienfeldern.
 
 ## Wir suchen Dich
 Schicke uns eine kurze Vorstellung von Dir per E-Mail oder Instagram und schau direkt bei einem unserer Meetings vorbei. Wir freuen uns auf Dich.
