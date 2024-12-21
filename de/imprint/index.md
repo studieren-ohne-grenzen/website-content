@@ -39,13 +39,13 @@ VR 380848 (Amtsgericht Freiburg im Breisgau)
 DE287535550
 
 ## Vertretungsberechtigter Vorstand
-1.Vorsitzende: Daniel Lerch
+1.Vorsitzender: Daniel Lerch
 
 2.Vorsitzender: Rico Mosig
 
-Kassenwartin: Filip Mirkanovic
+Kassenwart: Filip Mirkanovic
 
-1.Beisitzende: Daniel Schreiber
+1.Beisitzender: Daniel Schreiber
 
 2.Beisitzende: Triantafillia Pepe
 
