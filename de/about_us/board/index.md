@@ -31,7 +31,7 @@ Hallo, ich bin Daniel, 23 Jahre alt und studiere Wirtschaftsinformatik an der TU
 Ich bin Rico und komme aus Leipzig. Aktuell studiere ich Politik-/Verwaltungswissenschaft an der Uni Konstanz (bzw. ab Januar im Austauschsemester an der Uni Sussex).
 Ich bin im April 2023 über die Projektarbeit in der Westbank bei SOG eingestiegen, war dann 2024 in der Revision aktiv und habe mit weiteren Mitstreitern ein neues Burundi-Projekt gestartet. Im Vorstand möchte ich nun gerne v.a. im Fundraising und der Strategieplanung mithelfen, den Verein weiterzuentwickeln. Mich motiviert, dass wir durch unsere Projekte anderen jungen Menschen eine bessere Bildung und damit hoffentlich die Chance auf ein besseres Leben ermöglichen und dass ich selbst dabei gleichzeitig viel dazulernen kann.
 
-**Kassenwartin: Filip Mirkanovic**
+**Kassenwart: Filip Mirkanovic**
 
 Mein Name ist Filip Mirkanovic, 26 Jahre alt, und ich freue mich, als Bundeskassenwart bei Studieren ohne Grenzen tätig zu sein. Derzeit befinde ich mich im Master of Finance an der Frankfurt School of Finance & Management, wo ich auf meinen fundierten Kenntnissen im Bereich Finanz- und Rechnungswesen aufbaue. Mit meiner strukturierten und präzisen Arbeitsweise werde ich die finanzielle Verwaltung des Vereins unterstützen und durch meine Expertise einen Beitrag zur Förderung von weltweiten Bildungsprojekten leisten.
 
