@@ -6,7 +6,7 @@ title: Westbank
 
 ## Programmgruppe
 
-**Programmgruppentreffen:** Online jeden Montag um 18:30
+**Programmgruppentreffen:** Online jeden Montag um 19:00
 
 **Erreichbarkeit:** westbank@studieren-ohne-grenzen.org
 
