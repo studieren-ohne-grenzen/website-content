@@ -22,7 +22,7 @@ Die Westbank ist ein Gebiet das im Westen an Israel und im Osten an Jordanien gr
 
 **Programmstart:** 2020
 
-**Aktuell gefördert:** 1 Stipendiat aktuell gefördert (Stand September 2024)
+**Aktuell gefördert:** 10 Stipendiat:innen (Stand Dezember 2024)
 
 **Erfolgreich abgeschlossene Förderungen:** 5 Stipendiat:innen (Stand September 2024)
 
@@ -40,6 +40,9 @@ Vor Ort wird das Programm durch CDCE-I unterstützt, z.B. in der Ausschreibung d
 
 CDCE-I ist eine 2010 in Bethlehem gegründete, gemeinnützige Nichtregierungsorganisation. 
 Das Ziel des CDCE-I ist neben der Förderung vom Pluralismus und Menschenrechten die verstärkte Partizipation vor allem junger Menschen an der Gestaltung der sozialen und ökonomischen Strukturen der Westbank durch eine Integration im Arbeitsmarkt. Dabei hat sich das CDCE-I dem Ziel der nachhaltigen Entwicklung der Region verschrieben und fördert verschiedene Projekte mit Schwerpunkten etwa bei der Karriereplanung, von der auch die Absolvent:innen unseres Programms profitieren können, oder „legal awareness“, welches durch Vermittlung von juristischem Basiswissen den Menschen eine stärke Durchsetzung ihrer Rechte ermöglichen soll. Zudem beteiligt sich das CDCE-I an verschiedenen Initiativen, etwa im Bereich von sicheren Transportwegen für Studierende oder zur Verschönerung von Schulen unter Mithilfe der Schüler:innen.
+
+## Aktuelles aus dem Programm:
+Im Dezember 2024 haben wir ein neues Stipendienprojekt gestartet und 9 neue Stipendiat:innen in unser Programm aufgenommen. Wir unterstützen sie während ihres Studiums in unterschiedlichen Studienfeldern.
 
 ## Wir suchen Dich
 Schicke uns eine kurze Vorstellung von Dir per E-Mail oder Instagram und schau direkt bei einem unserer Meetings vorbei. Wir freuen uns auf Dich.
