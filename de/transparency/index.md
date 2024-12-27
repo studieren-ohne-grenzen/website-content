@@ -28,7 +28,21 @@ Etudes Sans Frontières – Studieren Ohne Grenzen Deutschland e.V. ist als geme
 -	Aufbau unseres Vereins: siehe Organisationsstruktur
 
 **5. Tätigkeitsbericht**
--	Aufgrund der aktuellen Situation in Afghanistan überarbeiten wir gerade unsere Wirkungsberichte, um unsere (ehemaligen) Stipendiat:innen nicht in Gefahr zu bringen. Die Wirkungsberichte können weiterhin angefragt werden per Mail an: kontakt@studieren-ohne-grenzen.org
+
+Aufgrund der aktuellen Situation in Afghanistan überarbeiten wir gerade weitere Wirkungsberichte, um unsere (ehemaligen) Stipendiat:innen nicht in Gefahr zu bringen. Die Wirkungsberichte können weiterhin angefragt werden per Mail an: kontakt@studieren-ohne-grenzen.org
+
+Wirkungsbericht 2009
+Wirkungsbericht 2010
+Wirkungsbericht 2011
+Wirkungsbericht 2012
+Wirkungsbericht 2013
+Wirkungsbericht 2014
+Wirkungsbericht 2015
+Wirkungsbericht 2016
+Wirkungsbericht 2017
+Wirkungsbericht 2018
+Wirkungsbericht 2019
+Wirkungsbericht 2020
 
 **6. Personalstruktur**
 -	7 ehrenamtliche Vorstandsmitglieder
