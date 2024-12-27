@@ -1,6 +1,6 @@
 ---
 title: Unterstützen
-description: Dolor consequat magna culpa officia consectetur aute nostrud excepteur in sunt sint aliqua pariatur. Irure voluptate veniam sit aliquip dolor incididunt aute Lorem quis ullamco occaecat nulla laborum id. Culpa elit Lorem cillum occaecat exercitation aliqua aliqua enim commodo velit mollit quis velit irure. Dolor Lorem exercitation nisi nisi nisi dolore esse ut aliquip duis.
+description: 
 ---
 
 # Unterstützen
@@ -27,23 +27,23 @@ Studieren Ohne Grenzen ist als gemeinnützig und mildtätig anerkannt. Für Spen
 - Bei der Angabe der Postadresse im Überweisungsbetreff senden wir ab 300 Euro automatisch eine Spendenbescheinigung zu. Natürlich stellen wir auf Wunsch auch bei kleineren Beträgen einen Nachweis aus (kontakt@studieren-ohne-grenzen.org).
 
 ## Patenschaften
-Mit einer Projektpatenschaft können Sie gezielt ein spezifisches Projekt über einen längeren Zeitraum unterstützen. Sie können die Patenschaft ganz einfach online abschließen. Alternativ können Sie das Patenschaftsformular herunterladen, ausfüllen und per Post oder Email an uns schicken. Sollten Sie Fragen zu Patenschaften haben, wenden Sie sich einfach an patenschaft@studieren-ohne-grenzen.org.
+Mit einer Projektpatenschaft können Sie gezielt ein spezifisches Projekt über einen längeren Zeitraum unterstützen. Sie können die Patenschaft ganz einfach online abschließen. Alternativ können Sie das Patenschaftsformular herunterladen, ausfüllen und per Post oder Email an uns schicken. Sollten Sie Fragen zu Patenschaften haben, wenden Sie sich einfach an patenschaft@studieren-ohne-grenzen.org. Eine Patenschaft ist monatlich kündbar.
 
 **Burundi**
 
 Durch die Übernahme einer Patenschaft ermöglichen Sie einer jungen Person aus Burundi ein Studium an der Universität in Bujumbura.
-Durch Übernahme einer Vollpatenschaft über 140€ pro Monat übernehmen Sie die kompletten anfallenden Studien- und Lebenshaltungskosten für einen Stipendiaten. Durch Teilpatenschaften in Höhe von 70€ monatlich können Sie die Lebenshaltungskosten decken, während mit 40€ monatlich die Kosten für Studiengebühren und Studienmaterialen gedeckt werden können. Mit einer Teilpatenschaft in Höhe von 15€ monatlich übernehmen Sie die Kosten für Studienmaterialien, sowie einen kleinen Teil der anfallenden Studiengebühren.  
+Durch Übernahme einer Vollpatenschaft über 140€ pro Monat übernehmen Sie die kompletten anfallenden Studien- und Lebenshaltungskosten für eine:n Stipendiat:in. Durch Teilpatenschaften in Höhe von 70€ monatlich können Sie die Lebenshaltungskosten decken, während mit 40€ monatlich die Kosten für Studiengebühren und Studienmaterialen gedeckt werden können. Mit einer Teilpatenschaft in Höhe von 15€ monatlich übernehmen Sie die Kosten für Studienmaterialien, sowie einen kleinen Teil der anfallenden Studiengebühren.  
 Hier finden Sie das [Patenschaftsformular für Burundi](https://civicrm.studieren-ohne-grenzen.org/civicrm/contribute/transact?id=22).
 
 **Mweso (DR Kongo)**
 
-Mit umgerechnet 18 Euro im Monat können Sie einem kongolesischen Studierenden das komplette Studium finanzieren. Die Kosten setzen sich aus den direkten Studien- und Prüfungsgebühren und einem Zuschuss zu den Lehrmaterialien zusammen. Das Stipendienprogramm in Mweso wurde im September 2010 gestartet und ermöglicht bedürftigen, sozial engagierten Kongolesinnen und Kongolesen das Studium an einem Agrarinstitut in Mweso, im Osten der DR Kongo.  
+Mit umgerechnet 18 Euro im Monat können Sie einem bzw. einer kongolesischen Studierenden das komplette Studium finanzieren. Die Kosten setzen sich aus den direkten Studien- und Prüfungsgebühren und einem Zuschuss zu den Lehrmaterialien zusammen. Das Stipendienprogramm in Mweso wurde im September 2010 gestartet und ermöglicht bedürftigen, sozial engagierten Kongolesinnen und Kongolesen das Studium an einem Agrarinstitut in Mweso, im Osten der DR Kongo.  
 Hier finden Sie das [Patenschaftsformular für Mweso](https://civicrm.studieren-ohne-grenzen.org/civicrm/contribute/transact?id=8).
 
 **Sri Lanka**
 
 Durch die Übernahme einer Patenschaft ermöglichen Sie es einem engagierten jungen Menschen aus Sri Lanka ein Studium an einer der Universitäten des Landes.
-Mit der Übernahme einer Vollpatenschaft in Höhe von 60€ im Monat finanzieren Sie dem Studierenden alle im Studium auftretenden Kosten, welche sowohl Lebenshaltungskosten als auch Studienmaterial und Lehrbücher beinhalten. Alternativ ist es auch möglich, eine halbe Patenschaft (30€) zu übernehmen. Damit können die Kosten für die Miete gedeckt werden. Mit einer Teilpatenschaft (15€) finanzieren Sie einem Studierenden die monatlichen Ausgaben für Lehrmaterialien.  
+Mit der Übernahme einer Vollpatenschaft in Höhe von 60€ im Monat finanzieren Sie der bzw. dem Studierenden alle im Studium auftretenden Kosten, welche sowohl Lebenshaltungskosten als auch Studienmaterial und Lehrbücher beinhalten. Alternativ ist es auch möglich, eine halbe Patenschaft (30€) zu übernehmen. Damit können die Kosten für die Miete gedeckt werden. Mit einer Teilpatenschaft (15€) finanzieren Sie die monatlichen Ausgaben für Lehrmaterialien eines/einer Student:in.  
 Hier finden Sie das [Patenschaftsformular für Sri Lanka](https://civicrm.studieren-ohne-grenzen.org/civicrm/contribute/transact?id=19).
 
 ## Fördermitgliedschaft im Hauptverein
