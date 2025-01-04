@@ -14,7 +14,7 @@ Hier stellen wir gemäß der Selbstverpflichtung zentrale Informationen über un
 -	Gründungsjahr: 2006
 
 **2. Vollständige Satzung sowie Angaben zu den Zielen unserer Organisation**
--	Satzung: siehe [Satzung](/legal/Satzung_2024.pdf){external}
+-	Satzung: siehe [Satzung](static/legal/Satzung_2024_11_09.pdf){external}
 -	Ziele unserer Organisation: siehe [Vision und Ansatz](/about_us#vision-und-ansatz)
 
 **3. Angaben zur Steuerbegünstigung**
@@ -31,18 +31,16 @@ Etudes Sans Frontières – Studieren Ohne Grenzen Deutschland e.V. ist als geme
 
 Aufgrund der aktuellen Situation in Afghanistan überarbeiten wir gerade weitere Wirkungsberichte, um unsere (ehemaligen) Stipendiat:innen nicht in Gefahr zu bringen. Die Wirkungsberichte können weiterhin angefragt werden per Mail an: kontakt@studieren-ohne-grenzen.org
 
-Wirkungsbericht 2009
-Wirkungsbericht 2010
-Wirkungsbericht 2011
-Wirkungsbericht 2012
-Wirkungsbericht 2013
-Wirkungsbericht 2014
-Wirkungsbericht 2015
-Wirkungsbericht 2016
-Wirkungsbericht 2017
-Wirkungsbericht 2018
-Wirkungsbericht 2019
-Wirkungsbericht 2020
+- [Wirkungsbericht 2020](static/legal/SOG_Wirkungsbericht_2020_Afghanistan_Aenderung.pdf){external}
+- [Wirkungsbericht 2019](legal/){external}
+- [Wirkungsbericht 2018](static/legal/SOG_Geschaeftsbericht_2018_Afghanistan_Aenderung.pdf){external}
+- [Wirkungsbericht 2015](static/legal/SOG_Wirkungsbericht_2015_Afghanistan_Aenderung.pdf){external}
+- [Wirkungsbericht 2014](legal/){external}
+- [Wirkungsbericht 2013](legal/){external}
+- [Wirkungsbericht 2012](legal/){external}
+- [Wirkungsbericht 2011](legal/){external}
+- [Wirkungsbericht 2010](legal/){external}
+- [Wirkungsbericht 2009](legal/){external}
 
 **6. Personalstruktur**
 -	7 ehrenamtliche Vorstandsmitglieder
