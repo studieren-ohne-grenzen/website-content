@@ -33,8 +33,8 @@ Aufgrund der aktuellen Situation in Afghanistan überarbeiten wir gerade weitere
 
 - [Wirkungsbericht 2020](static/legal/SOG_Wirkungsbericht_2020_Afghanistan_Aenderung.pdf)
 - [Wirkungsbericht 2019](legal/){external}
-- [Wirkungsbericht 2018](static/legal/SOG_Geschaeftsbericht_2018_Afghanistan_Aenderung.pdf){external}
-- [Wirkungsbericht 2015](static/legal/SOG_Wirkungsbericht_2015_Afghanistan_Aenderung.pdf){external}
+- [Wirkungsbericht 2018](static/legal/SOG_Geschaeftsbericht_2018_Afghanistan_Aenderung.pdf)
+- [Wirkungsbericht 2015](static/legal/SOG_Wirkungsbericht_2015_Afghanistan_Aenderung.pdf)
 - [Wirkungsbericht 2014](legal/){external}
 - [Wirkungsbericht 2013](legal/){external}
 - [Wirkungsbericht 2012](legal/){external}
