@@ -31,10 +31,10 @@ Etudes Sans Frontières – Studieren Ohne Grenzen Deutschland e.V. ist als geme
 
 Aufgrund der aktuellen Situation in Afghanistan überarbeiten wir gerade weitere Wirkungsberichte, um unsere (ehemaligen) Stipendiat:innen nicht in Gefahr zu bringen. Die Wirkungsberichte können weiterhin angefragt werden per Mail an: kontakt@studieren-ohne-grenzen.org
 
-- [Wirkungsbericht 2020](static/legal/SOG_Wirkungsbericht_2020_Afghanistan_Aenderung.pdf){external}
+- [Wirkungsbericht 2020](legal/SOG_Wirkungsbericht_2020_Afghanistan_Aenderung.pdf){external
 - [Wirkungsbericht 2019](legal/){external}
-- [Wirkungsbericht 2018](static/legal/SOG_Geschaeftsbericht_2018_Afghanistan_Aenderung.pdf){external}
-- [Wirkungsbericht 2015](static/legal/SOG_Wirkungsbericht_2015_Afghanistan_Aenderung.pdf){external}
+- [Wirkungsbericht 2018](legal/SOG_Geschaeftsbericht_2018_Afghanistan_Aenderung.pdf){external}
+- [Wirkungsbericht 2015](legal/SOG_Wirkungsbericht_2015_Afghanistan_Aenderung.pdf){external}
 - [Wirkungsbericht 2014](legal/){external}
 - [Wirkungsbericht 2013](legal/){external}
 - [Wirkungsbericht 2012](legal/){external}
