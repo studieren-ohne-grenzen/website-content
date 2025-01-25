@@ -25,9 +25,9 @@ Die Westbank ist ein Gebiet das im Westen an Israel und im Osten an Jordanien gr
 
 **Programmstart:** 2020
 
-**Aktuell gefördert:** 10 Stipendiat:innen (Stand Dezember 2024)
+**Aktuell gefördert:** 10 Stipendiat:innen (Stand Januar 2025)
 
-**Erfolgreich abgeschlossene Förderungen:** 5 Stipendiat:innen (Stand September 2024)
+**Erfolgreich abgeschlossene Förderungen:** 5 Stipendiat:innen (Stand Januar 2025)
 
 Die Stipendiat:innen studieren an unterschiedlichen Hochschulen der Westbank. Das Stipendium umfasst dabei die (anteilige) Übernahme von Studiengebühren sowie einen monatlichen Zuschuss zu den Lebenshaltungs- und Ausbildungskosten. 
 
@@ -44,6 +44,7 @@ Vor Ort wird das Programm durch CDCE-I unterstützt, z.B. in der Ausschreibung d
 CDCE-I ist eine 2010 in Bethlehem gegründete, gemeinnützige Nichtregierungsorganisation. 
 Das Ziel des CDCE-I ist neben der Förderung vom Pluralismus und Menschenrechten die verstärkte Partizipation vor allem junger Menschen an der Gestaltung der sozialen und ökonomischen Strukturen der Westbank durch eine Integration im Arbeitsmarkt. Dabei hat sich das CDCE-I dem Ziel der nachhaltigen Entwicklung der Region verschrieben und fördert verschiedene Projekte mit Schwerpunkten etwa bei der Karriereplanung, von der auch die Absolvent:innen unseres Programms profitieren können, oder „legal awareness“, welches durch Vermittlung von juristischem Basiswissen den Menschen eine stärke Durchsetzung ihrer Rechte ermöglichen soll. Zudem beteiligt sich das CDCE-I an verschiedenen Initiativen, etwa im Bereich von sicheren Transportwegen für Studierende oder zur Verschönerung von Schulen unter Mithilfe der Schüler:innen.
 
+<br>
 ## Wir suchen Dich
 Schicke uns eine kurze Vorstellung von Dir per E-Mail oder Instagram und schau direkt bei einem unserer Meetings vorbei. Wir freuen uns auf Dich.
 
@@ -52,7 +53,7 @@ Arabische:r Dolmetscher
 - Übersetzung von PR Material
 - Kommunikation mit lokalen Stakeholdern in der Westbank
 - Zusammenarbeit mit Kontaktperson für CDCE-I
-
+<br>
 Verantwortliche:r für PR und Social Media
 - Organisation von Messeauftritten zur Projektvorstellung
 - Erstellung von PR Material
@@ -60,18 +61,18 @@ Verantwortliche:r für PR und Social Media
 - Mitgestaltung der neuen Webseite mit Artikeln zur Projektarbeit
 - Newsletterbeiträge
 - Zusammenarbeit mit Fundraising Team
-
+<br>
 Rechtsbeauftragte:r
 - Überblick über die Leitlinien und Richtlinien des Vereins
 - Vertragserstellungen
 - Datenschutzbeauftragte:r
-
+<br>
 Fundraising:
 - Akquise von privatem Sponsoring für die Projektarbeit (z.B. Studienkosten der Stipendiat:innen)
 - Elevator Pitches an Unternehmen vorbereiten und durchführen
   ! Für eine non-profit Organisation !
 - Zusammenarbeit mit Kassenwart:in und PR Team
-
+  <br>
 Stipendiat:innen Buddy
 - Stehen unseren Stipendiat:innen während ihres Studiums zur Seite
 - Sind die ersten Ansprechpersonen bei jeglichen Angelegenheiten der Stipendiat:innen
