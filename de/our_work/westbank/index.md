@@ -77,7 +77,7 @@ Schicke uns eine kurze Vorstellung von Dir per E-Mail oder Instagram und schau d
 - Elevator Pitches an Unternehmen vorbereiten und durchführen
   ! Für eine non-profit Organisation !
 - Zusammenarbeit mit Kassenwart:in und PR Team
-  <br>
+<br>
   
 **Stipendiat:innen Buddy**
 - Stehen unseren Stipendiat:innen während ihres Studiums zur Seite
