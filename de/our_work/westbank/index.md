@@ -47,6 +47,7 @@ Das Ziel des CDCE-I ist neben der Förderung vom Pluralismus und Menschenrechten
 <br>
 ## Wir suchen Dich
 Schicke uns eine kurze Vorstellung von Dir per E-Mail oder Instagram und schau direkt bei einem unserer Meetings vorbei. Wir freuen uns auf Dich.
+
 <br>
 
 **Arabische:r Dolmetscher**
