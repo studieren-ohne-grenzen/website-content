@@ -47,14 +47,16 @@ Das Ziel des CDCE-I ist neben der Förderung vom Pluralismus und Menschenrechten
 <br>
 ## Wir suchen Dich
 Schicke uns eine kurze Vorstellung von Dir per E-Mail oder Instagram und schau direkt bei einem unserer Meetings vorbei. Wir freuen uns auf Dich.
+<br>
 
-Arabische:r Dolmetscher
+**Arabische:r Dolmetscher**
 - Übersetzung von Unterlagen der Stipendiat:innen
 - Übersetzung von PR Material
 - Kommunikation mit lokalen Stakeholdern in der Westbank
 - Zusammenarbeit mit Kontaktperson für CDCE-I
 <br>
-Verantwortliche:r für PR und Social Media
+
+**Verantwortliche:r für PR und Social Media**
 - Organisation von Messeauftritten zur Projektvorstellung
 - Erstellung von PR Material
 - Social Media Beiträge
@@ -62,18 +64,21 @@ Verantwortliche:r für PR und Social Media
 - Newsletterbeiträge
 - Zusammenarbeit mit Fundraising Team
 <br>
-Rechtsbeauftragte:r
+
+**Rechtsbeauftragte:r**
 - Überblick über die Leitlinien und Richtlinien des Vereins
 - Vertragserstellungen
 - Datenschutzbeauftragte:r
 <br>
-Fundraising:
+
+**Fundraising**
 - Akquise von privatem Sponsoring für die Projektarbeit (z.B. Studienkosten der Stipendiat:innen)
 - Elevator Pitches an Unternehmen vorbereiten und durchführen
   ! Für eine non-profit Organisation !
 - Zusammenarbeit mit Kassenwart:in und PR Team
   <br>
-Stipendiat:innen Buddy
+  
+**Stipendiat:innen Buddy**
 - Stehen unseren Stipendiat:innen während ihres Studiums zur Seite
 - Sind die ersten Ansprechpersonen bei jeglichen Angelegenheiten der Stipendiat:innen
 
