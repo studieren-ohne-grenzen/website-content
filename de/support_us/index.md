@@ -27,7 +27,7 @@ Studieren Ohne Grenzen ist als gemeinnützig und mildtätig anerkannt. Für Spen
 - Bei der Angabe der Postadresse im Überweisungsbetreff senden wir ab 300 Euro automatisch eine Spendenbescheinigung zu. Natürlich stellen wir auf Wunsch auch bei kleineren Beträgen einen Nachweis aus (kontakt@studieren-ohne-grenzen.org).
 
 ## Patenschaften
-Mit einer Projektpatenschaft können Sie gezielt ein spezifisches Projekt über einen längeren Zeitraum unterstützen. Sie können die Patenschaft ganz einfach online abschließen. Alternativ können Sie das Patenschaftsformular herunterladen, ausfüllen und per Post oder Email an uns schicken. Sollten Sie Fragen zu Patenschaften haben, wenden Sie sich einfach an patenschaft@studieren-ohne-grenzen.org. Eine Patenschaft ist monatlich kündbar.
+Mit einer Projektpatenschaft können Sie gezielt ein spezifisches Projekt über einen längeren Zeitraum unterstützen. Sie können die Patenschaft ganz einfach online abschließen. Alternativ können Sie das Patenschaftsformular herunterladen, ausfüllen und per Post oder E-Mail an uns schicken. Sollten Sie Fragen zu Patenschaften haben, wenden Sie sich einfach an die jeweilige Programmgruppe. Eine Patenschaft ist monatlich kündbar.
 
 <br>
 
@@ -35,14 +35,14 @@ Mit einer Projektpatenschaft können Sie gezielt ein spezifisches Projekt über 
 
 Durch die Übernahme einer Patenschaft ermöglichen Sie einer jungen Person aus Burundi ein Studium an der Universität in Bujumbura.
 Durch Übernahme einer Vollpatenschaft über 140€ pro Monat übernehmen Sie die kompletten anfallenden Studien- und Lebenshaltungskosten für eine:n Stipendiat:in. Durch Teilpatenschaften in Höhe von 70€ monatlich können Sie die Lebenshaltungskosten decken, während mit 40€ monatlich die Kosten für Studiengebühren und Studienmaterialen gedeckt werden können. Mit einer Teilpatenschaft in Höhe von 15€ monatlich übernehmen Sie die Kosten für Studienmaterialien, sowie einen kleinen Teil der anfallenden Studiengebühren.  
-Hier finden Sie das [Patenschaftsformular für Burundi](https://civicrm.studieren-ohne-grenzen.org/civicrm/contribute/transact?id=22).
+Hier finden Sie das [Patenschaftsformular für Burundi](https://civicrm.studieren-ohne-grenzen.org/civicrm/contribute/transact?id=22). Bei Fragen wenden Sie sich einfach an: burundi@studieren-ohne-grenzen.org
 
 <br>
 
 **Mweso (DR Kongo)**
 
 Mit umgerechnet 18 Euro im Monat können Sie einem bzw. einer kongolesischen Studierenden das komplette Studium finanzieren. Die Kosten setzen sich aus den direkten Studien- und Prüfungsgebühren und einem Zuschuss zu den Lehrmaterialien zusammen. Das Stipendienprogramm in Mweso wurde im September 2010 gestartet und ermöglicht bedürftigen, sozial engagierten Kongolesinnen und Kongolesen das Studium an einem Agrarinstitut in Mweso, im Osten der DR Kongo.  
-Hier finden Sie das [Patenschaftsformular für Mweso](https://civicrm.studieren-ohne-grenzen.org/civicrm/contribute/transact?id=8).
+Hier finden Sie das [Patenschaftsformular für Mweso](https://civicrm.studieren-ohne-grenzen.org/civicrm/contribute/transact?id=8). Bei Fragen wenden Sie sich einfach an: mweso@studieren-ohne-grenzen.org
 
 <br>
 
@@ -50,7 +50,7 @@ Hier finden Sie das [Patenschaftsformular für Mweso](https://civicrm.studieren-
 
 Durch die Übernahme einer Patenschaft ermöglichen Sie es einem engagierten jungen Menschen aus Sri Lanka ein Studium an einer der Universitäten des Landes.
 Mit der Übernahme einer Vollpatenschaft in Höhe von 60€ im Monat finanzieren Sie der bzw. dem Studierenden alle im Studium auftretenden Kosten, welche sowohl Lebenshaltungskosten als auch Studienmaterial und Lehrbücher beinhalten. Alternativ ist es auch möglich, eine halbe Patenschaft (30€) zu übernehmen. Damit können die Kosten für die Miete gedeckt werden. Mit einer Teilpatenschaft (15€) finanzieren Sie die monatlichen Ausgaben für Lehrmaterialien eines/einer Student:in.  
-Hier finden Sie das [Patenschaftsformular für Sri Lanka](https://civicrm.studieren-ohne-grenzen.org/civicrm/contribute/transact?id=19).
+Hier finden Sie das [Patenschaftsformular für Sri Lanka](https://civicrm.studieren-ohne-grenzen.org/civicrm/contribute/transact?id=19). Bei Fragen wenden Sie sich einfach an: srilanka@studieren-ohne-grenzen.org
 
 ## Fördermitgliedschaft im Hauptverein
 Als Fördermitglied unterstützen Sie unsere Organisation kontinuierlich durch einen frei wählbaren monatlichen oder jährlichen Beitrag. Dieses langfristige Vertrauen hilft uns insbesondere dabei, einen nachhaltigen Finanzierungsansatz für neue Projekte zu entwickeln. Als Fördermitglied haben Sie volles Stimmrecht im Verein, z.B. auf der Mitgliederversammlung.
