@@ -29,22 +29,16 @@ Studieren Ohne Grenzen ist als gemeinnützig und mildtätig anerkannt. Für Spen
 ## Patenschaften
 Mit einer Projektpatenschaft können Sie gezielt ein spezifisches Projekt über einen längeren Zeitraum unterstützen. Sie können die Patenschaft ganz einfach online abschließen. Alternativ können Sie das Patenschaftsformular herunterladen, ausfüllen und per Post oder E-Mail an uns schicken. Sollten Sie Fragen zu Patenschaften haben, wenden Sie sich einfach an die jeweilige Programmgruppe. Eine Patenschaft ist monatlich kündbar.
 
-<br>
-
 **Burundi**
 
 Durch die Übernahme einer Patenschaft ermöglichen Sie einer jungen Person aus Burundi ein Studium an der Universität in Bujumbura.
 Durch Übernahme einer Vollpatenschaft über 140€ pro Monat übernehmen Sie die kompletten anfallenden Studien- und Lebenshaltungskosten für eine:n Stipendiat:in. Durch Teilpatenschaften in Höhe von 70€ monatlich können Sie die Lebenshaltungskosten decken, während mit 40€ monatlich die Kosten für Studiengebühren und Studienmaterialen gedeckt werden können. Mit einer Teilpatenschaft in Höhe von 15€ monatlich übernehmen Sie die Kosten für Studienmaterialien, sowie einen kleinen Teil der anfallenden Studiengebühren.  
 Hier finden Sie das [Patenschaftsformular für Burundi](https://civicrm.studieren-ohne-grenzen.org/civicrm/contribute/transact?id=22). Bei Fragen wenden Sie sich einfach an: burundi@studieren-ohne-grenzen.org
 
-<br>
-
 **Mweso (DR Kongo)**
 
 Mit umgerechnet 18 Euro im Monat können Sie einem bzw. einer kongolesischen Studierenden das komplette Studium finanzieren. Die Kosten setzen sich aus den direkten Studien- und Prüfungsgebühren und einem Zuschuss zu den Lehrmaterialien zusammen. Das Stipendienprogramm in Mweso wurde im September 2010 gestartet und ermöglicht bedürftigen, sozial engagierten Kongolesinnen und Kongolesen das Studium an einem Agrarinstitut in Mweso, im Osten der DR Kongo.  
 Hier finden Sie das [Patenschaftsformular für Mweso](https://civicrm.studieren-ohne-grenzen.org/civicrm/contribute/transact?id=8). Bei Fragen wenden Sie sich einfach an: mweso@studieren-ohne-grenzen.org
-
-<br>
 
 **Sri Lanka**
 
