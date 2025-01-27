@@ -10,7 +10,7 @@ title: Sri Lanka
 
 **Erreichbarkeit:** srilanka@studieren-ohne-grenzen.org
 
-## Das Stipendienprogramm - Infinity Center 
+## Das Stipendienprogramm - Infinity Centre 
 
 **Programmstart:** 2015
 
@@ -49,4 +49,3 @@ Die Projekte der Stipendiat:innen wurden in der Regel bereits während des Studi
 
 ### Kooperationspartner:innen:
 Die Auswahl der Stipendiat:innen erfolgte in enger Zusammenarbeit mit einer Schule vor Ort, welche ehemalige Schüler:innen für das Bewerbungsverfahren vorschlug, die sich durch besonderes Engagement auszeichneten. Leider konnte diese Zusammenarbeit 2022 nicht fortgeführt werden und trotz intensiver Suche kein:e neue Kooperationspartner:in gefunden werden. 
-

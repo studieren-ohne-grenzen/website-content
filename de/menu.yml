@@ -26,7 +26,7 @@ items:
       - name: Vision und Ansatz
         hash: vision-und-ansatz
       - name: Vorstand, Beirat und Revision
-        url: about_us/board
+        hash: vorstand-und-beirat
   - name: Mitmachen
     url: get_involved
     children:

@@ -14,7 +14,7 @@ Hier stellen wir gemäß der Selbstverpflichtung zentrale Informationen über un
 -	Gründungsjahr: 2006
 
 **2. Vollständige Satzung sowie Angaben zu den Zielen unserer Organisation**
--	Satzung: siehe [Satzung](static/legal/Satzung_2024_11_09.pdf){external}
+-	Satzung: siehe [Satzung](legal/Satzung_2024_11_09.pdf){external}
 -	Ziele unserer Organisation: siehe [Vision und Ansatz](/about_us#vision-und-ansatz)
 
 **3. Angaben zur Steuerbegünstigung**
