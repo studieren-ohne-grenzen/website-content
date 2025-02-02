@@ -7,7 +7,7 @@ title: DR Kongo ‒ Mweso
 ## Programmgruppe
 **Programmgruppentreffen:** unregelmäßig (Stand September 2024)
 
-**Erreichbarkeit:** mweso@studiern-ohne-grenzen.org; berlin@studieren-ohne-grenzen.org
+**Erreichbarkeit:** mweso@studieren-ohne-grenzen.org; berlin@studieren-ohne-grenzen.org
 
 ## Stipendienprogramm 
 
