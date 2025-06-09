@@ -6,7 +6,7 @@ title: Westbank
 
 ## Programmgruppe
 
-**Programmgruppentreffen:** Online jeden Montag um 19:00
+**Programmgruppentreffen:** Online, aktuell alle zwei Wochen montags um 19:00
 
 **Erreichbarkeit:** westbank@studieren-ohne-grenzen.org
 
@@ -25,9 +25,9 @@ Die Westbank ist ein Gebiet das im Westen an Israel und im Osten an Jordanien gr
 
 **Programmstart:** 2020
 
-**Aktuell gefördert:** 10 Stipendiat:innen (Stand Januar 2025)
+**Aktuell gefördert:** 11 Stipendiat:innen (Stand Juni 2025)
 
-**Erfolgreich abgeschlossene Förderungen:** 5 Stipendiat:innen (Stand Januar 2025)
+**Erfolgreich abgeschlossene Förderungen:** 5 Stipendiat:innen (Stand Juni 2025)
 
 Die Stipendiat:innen studieren an unterschiedlichen Hochschulen der Westbank. Das Stipendium umfasst dabei die (anteilige) Übernahme von Studiengebühren sowie einen monatlichen Zuschuss zu den Lebenshaltungs- und Ausbildungskosten. 
 
