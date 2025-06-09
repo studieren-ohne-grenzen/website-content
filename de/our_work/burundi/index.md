@@ -6,7 +6,7 @@ title: Burundi
 
 ## Programmgruppe
 
-**Programmgruppentreffen:** ein festes Treffen (online) pro Monat (grds. am 2. Sonntag im Monat); darüber hinaus weitere Treffen nach Bedarf
+**Programmgruppentreffen:** Online, ein festes monatliches Treffen jeden 2. Sonntag im Monat um 20:00, darüber hinaus weitere Treffen nach Bedarf
 
 **Erreichbarkeit:** burundi@studieren-ohne-grenzen.org
 
